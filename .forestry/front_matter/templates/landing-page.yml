@@ -1,6 +1,6 @@
 ---
-label: landing-page
-hide_body: false
+label: home
+hide_body: true
 fields:
 - name: title
   label: Title
@@ -12,11 +12,11 @@ fields:
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: Home
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: ''
 - type: textarea
   name: textline
   label: Description
