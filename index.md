@@ -2,6 +2,7 @@
 title: Home
 layout: landing-page
 heading: Helping startups and entrepreneurs build great companies
+sub_heading: Early stage venture capital for Prince Edward Island companies
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -15,7 +16,6 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Early stage venture capital for Prince Edward Island companies
 textline: |
   Belkirk College of Engineering
 
