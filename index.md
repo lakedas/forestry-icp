@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/uploads/2019/05/07/header.jpg"
+banner_image: ''
 layout: landing-page
-heading: ISLAND CAPITAL PARTNERS HELPS STARTUPS AND ENTREPRENEURS BUILD GREAT COMPANIES.
+heading: Helping startups and entrepreneurs build great companies
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
