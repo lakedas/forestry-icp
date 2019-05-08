@@ -1165,14 +1165,7 @@ nav ul a {
     line-height: 25px
 }
 
-.navigation ul li a {
-    border-radius: 0;
-    padding: 5px 10px;
-    text-transform: none;
-    text-transform: initial
-}
-
-.navigation ul li a:after {
+.navigation li a:after {
     display: block;
     content: '';
     border-bottom: solid 1px #000;
@@ -1181,6 +1174,12 @@ nav ul a {
     transition: transform 250ms ease-in-out;
 }
 
+.navigation ul li a {
+    border-radius: 0;
+    padding: 5px 10px;
+    text-transform: none;
+    text-transform: initial
+}
 .navigation li>ul {
     background: #fff;
     position: absolute;
