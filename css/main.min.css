@@ -1062,7 +1062,7 @@ nav ul a {
 
 .main-nav ul {
     float: right;
-    margin-top: 14px
+    margin-top: 11px
 }
 
 .main-nav li {
@@ -1159,10 +1159,10 @@ nav ul a {
     font-size: 13px;
     text-transform: uppercase;
     border-radius: 0;
-    padding: 5px;
+    padding: 13px 5px 11px 5px;
     display: block;
     white-space: nowrap;
-    line-height: 25px
+    line-height: 16px;
 }
 
 .navigation li a:after {
@@ -1218,14 +1218,17 @@ nav ul a {
     background: #1ec7ce;
     color: white;
     border-radius: 25px;
-    padding: 4px 20px;
-    transition:0.4s all;
+    padding: 9px 20px;
+    transition: 0.4s all;
+    margin-top: 4px;
 }
 .navigation li:last-of-type a:hover {
     color:white;
     opacity:0.8;
 }
-
+.navigation li:last-of-type a:after {
+    display:none;   
+}
 .navigation li ul li a {
     padding: 10px 15px
 }
