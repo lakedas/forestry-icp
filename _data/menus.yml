@@ -1,0 +1,10 @@
+---
+navigation:
+- identifier: _posts
+  weight: 3
+  url: "#team"
+  title: Management Team
+- identifier: _about
+  weight: 2
+  url: "#portfolio"
+  title: Portfolio

@@ -22,9 +22,5 @@ textline: |
   Ora et Labora
 show_news: true
 show_staff: false
-menu:
-  navigation:
-    identifier: _index
-    weight: 1
 
 ---
