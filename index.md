@@ -1,6 +1,5 @@
 ---
 title: Home
-banner_image: ''
 layout: landing-page
 heading: Helping startups and entrepreneurs build great companies
 partners:
@@ -21,9 +20,6 @@ textline: |
   Belkirk College of Engineering
 
   Ora et Labora
-hero_button:
-  text: Learn more
-  href: "/about"
 show_news: true
 show_staff: false
 menu:
