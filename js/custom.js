@@ -1,6 +1,6 @@
 window.addEventListener("load", function(){
-	var div = document.querySelectorAll(".plain-header h2");
-	var letters = div.textContent.split('');
+	var div = document.querySelector(".plain-header h2");
+	var letters = div.innerText.split('');
 	while(div.hasChildNodes()) div.removeChild(div.firstChild);
 
 	for(var i = 0; i < letters.length; i++) {
