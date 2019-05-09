@@ -1,6 +1,5 @@
 window.addEventListener("load", function(){
-	var nodes = document.
-querySelectorAll(".plain-header h2");
+	var nodes = document.querySelectorAll(".plain-header h2");
 	for(var i=0; i<nodes.length; i++){
 	} 
 });
