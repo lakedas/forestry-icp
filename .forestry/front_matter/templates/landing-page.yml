@@ -17,16 +17,22 @@ fields:
   name: sub_heading
   label: Hero Sub heading
   default: ''
-- type: textarea
-  name: textline
-  label: Description
+- name: about_heading
+  type: text
   config:
-    wysiwyg: true
     required: false
+  label: About Heading
+- name: about_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
     schema:
       format: markdown
-- name: services
-  label: Services
+  label: About Description
+- name: portfolio
+  label: Portfolio
   type: field_group_list
   fields:
   - name: heading
@@ -46,6 +52,8 @@ fields:
     default: ''
   hidden: false
   default: ''
+  config:
+    labelField: heading
 - type: boolean
   name: show_news
   label: Show News?
