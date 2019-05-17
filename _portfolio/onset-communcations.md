@@ -1,11 +1,6 @@
 ---
-title: 'Electric Vehicle '
-tags:
-- research
+title: 'Onset Communications'
 date: 2018-02-25T19:07:50.000+00:00
-banner_image: "/uploads/2018/02/25/car.jpg"
-sub_heading: 'Human centered design in the electric vehicle era '
-slug: ''
 company: Onset Communications Inc.
 company_logo: "/uploads/2019/05/17/onset_logo.png"
 
