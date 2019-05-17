@@ -1,3 +1,4 @@
+/*
 window.addEventListener("load", function(){
 	var div = document.querySelector(".plain-header h2");
 	var letters = div.innerText.split('');
@@ -19,3 +20,4 @@ window.addEventListener("load", function(){
 	  }
 	}, 0);
 });
+*/
