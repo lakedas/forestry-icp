@@ -222,6 +222,9 @@ th {
     padding: 0
 }
 
+.clear {
+   clear:both;
+}
 
 /*
  * jQuery FlexSlider v2.6.0
@@ -855,21 +858,10 @@ a.hero-arrow {
     padding: 0 5px;
 }
 
-.plain-header h2 span{
-	position: relative;
-	opacity: 0;
-	top: 1em;
-	animation: animateOverlay 0.5s ease-in-out forwards;
-}
-.plain-header h2 span:nth-child(4n) { animation-delay: 0s; }
-.plain-header h2 span:nth-child(4n+1) { animation-delay: 0.5s; }
-.plain-header h2 span:nth-child(4n+3) { animation-delay: 1s; }
-.plain-header h2 span:nth-child(4n+2) { animation-delay: 1.5s; }
-@keyframes animateOverlay {
-  to {
-        opacity: 1;
-        top: 0;
-    }
+.about_box {
+    float:left;
+    width:60%;
+    padding:50px 0;
 }
 
 .content-subhead {
