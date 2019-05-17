@@ -2,9 +2,11 @@
     Displays about section from a document's front matter
 {% endcomment %}
 
+{% if page.about %}
 <section class="about">
     <div class="container">
         <h2>{{ page.about_heading }} </h2>
         <div>{{ page.about_description }}</div>
     </div>
 </section>
+{% endif %}
