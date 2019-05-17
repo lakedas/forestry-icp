@@ -1,28 +1,13 @@
 ---
-label: project
+label: Portfolios
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: Title
-- name: sub_heading
-  label: Sub Heading
-  type: text
-  hidden: false
-  default: ''
-- name: banner_image
-  label: Banner Image
+  name: company
+  label: Company
+- name: company_logo
+  label: Logo
   type: file
-  description: Dimensions work best at 1200 pixels by 400 pixels
-  hidden: false
-  default: ''
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: []
-- name: slug
-  label: Slug
-  type: text
+  description: Dimensions work best at 400 pixels by 100 pixels
   hidden: false
   default: ''
