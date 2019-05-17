@@ -630,7 +630,9 @@ html {
 }
 
 body {
-    background-repeat: repeat-x
+    background-repeat: repeat-x;
+    font-family: Montserrat, sans-serif;
+    font-size:17px;
 }
 
 aside,
@@ -662,6 +664,7 @@ h5,
 h6 {
     line-height: 1.4em;
     font-weight: 400;
+    font-family: 'Playfair Display', serif;
 }
 
 
