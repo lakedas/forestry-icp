@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700|Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Playfair+Display);
 
 /* Vendor styles */
 
@@ -627,7 +627,7 @@ textarea {
 
 body,
 html {
-    color: #64676f;
+    color: #000;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
@@ -636,6 +636,7 @@ body {
     background-repeat: repeat-x;
     font-family: Montserrat, sans-serif;
     font-size:17px;
+    font-weight:400;
 }
 
 aside,
@@ -858,10 +859,26 @@ a.hero-arrow {
     padding: 0 5px;
 }
 
+.about {
+    position:relative;
+}
+
+.about h2 {
+    font-size:36px;
+
 .about_box {
     float:left;
     width:60%;
     padding:50px 0;
+    position:relative;
+}
+
+.about_image {
+    width: 40%;
+    height: 100%;
+    background: #ebebeb;
+    position: absolute;
+    right: 0;
 }
 
 .content-subhead {
@@ -1374,10 +1391,6 @@ nav ul a {
     font-size: 22px;
     font-weight: 300;
     line-height: 1.5em
-}
-
-.about {
-    padding: 40px 0
 }
 
 .contact {
