@@ -2,14 +2,14 @@
     Displays portfolio from a document's front matter
 {% endcomment %}
 
-{% if page.portfolio %}
+{% if portfolio %}
 <section class="portfolio">
     <div class="container">
-        {% for item in page.portfolio %}
+        {% for item in portfolio %}
         <div class="pure-u-1 pure-u-md-1-{{ forloop.length }}">
               <div class="company">
-                  <div class="portfolio-logo"><img src="{{ item.logo | absolute_url }}" alt=""></div>
-                  <h2>{{ item.heading }}</h2>
+                  <div class="portfolio-logo"><img src="{{ item.company_logo | absolute_url }}" alt=""></div>
+                  <h2>{{ item.company }}</h2>
                   <p>{{ item.description }}</p>
               </div>
         </div>
