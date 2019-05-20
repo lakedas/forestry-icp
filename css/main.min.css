@@ -882,6 +882,62 @@ a.hero-arrow {
     right: 0;
 }
 
+.portfolio-box:nth-of-type(odd) {
+    padding: 30px 15px 0 0;
+}
+
+.portfolio-box:nth-of-type(event) {
+    padding: 30px 0 0 15px;
+}
+
+.company {
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    display: flex;
+    padding: 20px;
+    transition:0.3s all;
+}
+
+.company:hover {
+    background:#19c4cb;
+    color:#fff;
+    box-shadow:0 0 14px 0 #ebebeb;
+    transform:scale(1.1);
+}
+.company:hover img {
+    filter:brightness(100%);
+}
+.company img {
+    transform: rotate(-90deg);
+    position: absolute;
+    top: 50%;
+    display: block;
+    left: -57px;
+    filter: brightness(0);
+}
+
+.portfolio-logo {
+    width:20%;
+    position:relative;
+}
+
+.portfolio-info {
+    float: left;
+    width: 80%;
+}
+
+.company h3 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.company p {
+    line-height: 27px;
+    font-size: 14px;
+}
+
 .content-subhead {
     margin: 50px 0 20px;
     font-weight: 300;
