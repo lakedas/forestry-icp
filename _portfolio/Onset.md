@@ -5,6 +5,4 @@ company: Onset Communications Inc.
 company_logo: "/uploads/2019/05/20/onset.png"
 
 ---
-Onset Communication Inc. has developed The Visual Assistant, a visual communication tool that reduces miscommunication, delays and mistakes on film and TV production sets. A prototype version of the system has been tested on productions over the past 18 months and the feedback has helped with product development, as well as creating market demand.
-
-The Video Assistant has the potential to become an essential part of any production set as it streamlines the communication process and unleashes the customer’s creative vision.
+Onset Communication Inc. has developed The Visual Assistant, a visual communication tool that reduces miscommunication, delays and mistakes on film and TV production sets. The Video Assistant has the potential to become an essential part of any production set as it streamlines the communication process and unleashes the customer’s creative vision.
