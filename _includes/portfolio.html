@@ -3,8 +3,9 @@
 {% endcomment %}
 
 <section class="portfolio">
-    <div class="container">test
+    <div class="container">
         {% for item in site.projects %}
+        test1
         <div class="pure-u-1 pure-u-md-1-{{ forloop.length }}">
               <div class="company">
                   <div class="portfolio-logo"><img src="{{ item.company_logo | absolute_url }}" alt=""></div>
@@ -14,6 +15,7 @@
         </div>
         {% endfor %}
         {% for item in site.project %}
+        test2
         <div class="pure-u-1 pure-u-md-1-{{ forloop.length }}">
               <div class="company">
                   <div class="portfolio-logo"><img src="{{ item.company_logo | absolute_url }}" alt=""></div>
@@ -23,6 +25,7 @@
         </div>
         {% endfor %}
         {% for item in site.portfolio %}
+        test3
         <div class="pure-u-1 pure-u-md-1-{{ forloop.length }}">
               <div class="company">
                   <div class="portfolio-logo"><img src="{{ item.company_logo | absolute_url }}" alt=""></div>
