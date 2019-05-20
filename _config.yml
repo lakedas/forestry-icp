@@ -20,7 +20,8 @@ collections:
   posts:
     output: true
   projects:
-    output: true
+    output: false
+    relative_directory: "/_portfolio"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
