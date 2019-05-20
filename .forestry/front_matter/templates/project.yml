@@ -11,3 +11,5 @@ fields:
   description: Dimensions work best at 400 pixels by 100 pixels
   hidden: false
   default: ''
+pages:
+- _portfolio/Forestry.md
