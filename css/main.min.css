@@ -888,16 +888,16 @@ a.hero-arrow {
 
 .portfolio h2 {
     text-align: center;
-    font-size: 32px;
-    margin: 0 0 50px 0;
+    font-size: 38px;
+    margin: 0;
 }
 
 .portfolio .pure-u-1:nth-of-type(odd) .portfolio-box {
-    padding: 30px 15px 0 0;
+    padding: 50px 25px 0 0;
 }
 
 .portfolio .pure-u-1:nth-of-type(even) .portfolio-box {
-    padding: 30px 0 0 15px;
+    padding: 50px 0 0 25px;
 }
 
 .company {
@@ -905,7 +905,8 @@ a.hero-arrow {
     border-radius: 8px;
     display: flex;
     padding: 20px;
-    transition:0.3s all;
+    transition:0.5s all;
+    min-height:335px;
 }
 
 .company:hover {
@@ -922,7 +923,7 @@ a.hero-arrow {
     position: absolute;
     top: 50%;
     display: block;
-    left: -57px;
+    left: -37px;
     filter: brightness(0);
     max-width:150px;
 }
