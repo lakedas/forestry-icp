@@ -882,17 +882,27 @@ a.hero-arrow {
     right: 0;
 }
 
-.portfolio-box:nth-of-type(odd) {
+.portfolio {
+    padding:50px;
+}
+
+.portfolio h2 {
+    text-align: center;
+    font-size: 32px;
+    margin: 0 0 50px 0;
+}
+
+.portfolio .pure-u-1:nth-of-type(odd) .portfolio-box {
     padding: 30px 15px 0 0;
 }
 
-.portfolio-box:nth-of-type(event) {
+.portfolio .pure-u-1:nth-of-type(even) .portfolio-box {
     padding: 30px 0 0 15px;
 }
 
 .company {
     border: 1px solid #ebebeb;
-    border-radius: 3px;
+    border-radius: 8px;
     display: flex;
     padding: 20px;
     transition:0.3s all;
@@ -914,6 +924,7 @@ a.hero-arrow {
     display: block;
     left: -57px;
     filter: brightness(0);
+    max-width:150px;
 }
 
 .portfolio-logo {
