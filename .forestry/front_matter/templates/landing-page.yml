@@ -31,29 +31,6 @@ fields:
     schema:
       format: markdown
   label: About Description
-- name: portfolio
-  label: Portfolio
-  type: field_group_list
-  fields:
-  - name: heading
-    label: Heading
-    type: text
-    hidden: false
-    default: ''
-  - name: description
-    label: Description
-    type: text
-    hidden: false
-    default: ''
-  - name: icon
-    label: Icon
-    type: file
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
-  config:
-    labelField: heading
 - type: boolean
   name: show_news
   label: Show News?
