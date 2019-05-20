@@ -12,5 +12,4 @@ fields:
   hidden: false
   default: ''
 pages:
-- _portfolio/Garago.md
 - _portfolio/Forestry.md
