@@ -13,5 +13,23 @@
               </div>
         </div>
         {% endfor %}
+        {% for item in site.project %}
+        <div class="pure-u-1 pure-u-md-1-{{ forloop.length }}">
+              <div class="company">
+                  <div class="portfolio-logo"><img src="{{ item.company_logo | absolute_url }}" alt=""></div>
+                  <h2>{{ item.company }}</h2>
+                  <p>{{ item.description }}</p>
+              </div>
+        </div>
+        {% endfor %}
+        {% for item in site.portfolio %}
+        <div class="pure-u-1 pure-u-md-1-{{ forloop.length }}">
+              <div class="company">
+                  <div class="portfolio-logo"><img src="{{ item.company_logo | absolute_url }}" alt=""></div>
+                  <h2>{{ item.company }}</h2>
+                  <p>{{ item.description }}</p>
+              </div>
+        </div>
+        {% endfor %}
     </div>
 </section>
