@@ -1,5 +1,5 @@
 ---
-company: FORESTRY.IO
+company: Forestry.io
 company_logo: "/uploads/2019/05/20/forestry.png"
 
 ---
