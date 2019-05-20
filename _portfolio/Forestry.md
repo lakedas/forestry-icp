@@ -1,7 +1,6 @@
 ---
 company: FORESTRY.IO
 company_logo: "/uploads/2019/05/20/forestry.png"
-published: false
 
 ---
 Forestry.io’s content management system is meant to simplify posting and updating material processes on static websites.
