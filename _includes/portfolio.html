@@ -5,8 +5,7 @@
 <section class="portfolio">
     <div class="container">
         <h2>Portfolio</h2>
-        {% for item in site.portfolio %}
-        <div class="pure-u-1 pure-u-md-1-2">
+        {% for item in site.portfolio %}<div class="pure-u-1 pure-u-md-1-2">
             <div class="portfolio-box">
               <div class="company">
                   <div class="portfolio-logo"><img src="{{ item.company_logo | absolute_url }}" alt=""></div>
@@ -16,7 +15,6 @@
                   </div>
               </div>
             </div>
-        </div>
-        {% endfor %}
+        </div>{% endfor %}
     </div>
 </section>
