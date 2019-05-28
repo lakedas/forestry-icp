@@ -12,5 +12,6 @@ about_description: |-
 portfolio: []
 portfolio_heading: Our Portfolio
 portfolio_call_to_action: View Press Releases
+sub_heading: Early Stage Venture Capital for Prince Edward Island Companies.
 
 ---
