@@ -967,9 +967,11 @@ a.hero-arrow {
     opacity:0.7;
 }
 
+.staff {
+    padding:75px 0;
+}
 .person {
-    width:800px;
-    margin: 0 auto;
+    margin: 0 auto 50px;
 }
 .person img {
     float:left;
@@ -977,19 +979,30 @@ a.hero-arrow {
     margin-top:40px;
 }
 .person-info {
-    float:left;
-    width:50%;
-    background:#f4f4f4;
-    padding:20px
+    float: left;
+    width: 50%;
+    background: #f4f4f4;
+    padding: 20px 30px;
 }
 .person-info h3 {
-    
+    font-weight: bold;
+    margin: 20px 0 15px;
+    font-size: 22px;
 }
 .person-info h4 {
-    color:blue;
+    color: #00c3cb;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    margin: 0 0 5px;
+    font-size: 15px;
+}
+.person-content {
+    font-size: 14px;
+    font-weight: 400;
 }
 .person-info a {
-    color:black;
+    color: #00c3cb;
+    font-size: 22px;
 }
 
 .content-subhead {
