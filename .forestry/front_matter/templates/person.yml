@@ -1,5 +1,5 @@
 ---
-label: person
+label: Person
 hide_body: false
 fields:
 - type: text
