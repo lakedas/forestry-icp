@@ -2,7 +2,7 @@
 title: Home
 layout: landing-page
 heading: Helping startups and entrepreneurs build great companies
-show_news: true
+sub_heading: Early stage Venture Capital for Prince Edward Island Companies.
 show_staff: true
 about_heading: Island Capital Partners
 about_description: |-
@@ -12,6 +12,5 @@ about_description: |-
 portfolio: []
 portfolio_heading: Our Portfolio
 portfolio_call_to_action: View Press Releases
-sub_heading: Early stage Venture Capital for Prince Edward Island Companies.
 
 ---
