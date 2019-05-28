@@ -21,7 +21,7 @@ textline: |
 
   Ora et Labora
 show_news: true
-show_staff: false
+show_staff: true
 about_heading: Island Capital Partners
 about_description: |-
   Is an early stage venture capital fund that is in the business of investing in high potential Prince Edward Island entrepreneurs and startups.
