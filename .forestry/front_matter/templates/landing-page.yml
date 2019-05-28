@@ -31,13 +31,17 @@ fields:
     schema:
       format: markdown
   label: About Description
-- type: boolean
-  name: show_news
-  label: Show News?
-  description: Enables a news section with a twitter feed & latest posts
-- type: image_gallery
-  name: partners
-  label: Partner Logos
+- name: portfolio_heading
+  type: text
+  config:
+    required: false
+  label: Portfolio Heading
+- name: portfolio_call_to_action
+  type: text
+  config:
+    required: false
+  label: Portfolio Call To Action
+  description: Text for call to action button leading to press releases
 - type: boolean
   name: show_staff
   label: Show Staff?
