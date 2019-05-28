@@ -14,17 +14,6 @@ fields:
   label: Thumbnail
   name: thumbnail
   description: 'Square image, Max 500 pixels '
-- name: role
-  label: Departments
-  type: list
-  hidden: true
-  default: staff
-  description: ''
-- name: email
-  label: Email
-  type: text
-  hidden: false
-  default: ''
 - name: linkedin
   label: Linkedin
   type: text
