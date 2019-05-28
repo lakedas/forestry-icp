@@ -883,7 +883,11 @@ a.hero-arrow {
 }
 
 .portfolio {
-    padding:50px;
+    padding: 50px 0;
+    background: url(/uploads/2019/05/28/rectangle-bg.png);
+    background-size: contain;
+    background-position: center bottom;
+    background-repeat: no-repeat;
 }
 
 .portfolio h2 {
@@ -948,6 +952,17 @@ a.hero-arrow {
 .company p {
     line-height: 27px;
     font-size: 14px;
+}
+
+.portfolio-cta {
+    background:#222;
+    padding:15px;
+    color:white;
+    text-align:center;
+    display:block;
+}
+.portfolio-cta:hover {
+    opacity:0.7;
 }
 
 .content-subhead {
