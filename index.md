@@ -28,5 +28,7 @@ about_description: |-
 
   We bring investment, experience, mentoring, and networking to our portfolio companies.
 portfolio: []
+portfolio_heading: Our Portfolio
+portfolio_call_to_action: View Press Releases
 
 ---
