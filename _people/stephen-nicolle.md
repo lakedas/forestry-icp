@@ -1,12 +1,8 @@
 ---
 title: Stephen Nicolle
 date: '2017-11-14T11:08:34.000+00:00'
-role:
-- advisor
-- board
 sub_heading: General Partner
 thumbnail: "/uploads/2019/05/28/img-placeholder.png"
-email: martin@belkirkcollege.com
 linkedin: http://ca.linkedin.com/in/snicolle
 layout: person
 
