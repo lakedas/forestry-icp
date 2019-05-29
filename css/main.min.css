@@ -972,6 +972,8 @@ a.hero-arrow {
 }
 .person {
     margin: 0 auto 50px;
+    float:left;
+    width:100%;
 }
 .person img {
     float:left;
