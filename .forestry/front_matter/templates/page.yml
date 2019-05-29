@@ -8,4 +8,4 @@ fields:
     required: false
   label: Test
 pages:
-- posts.md
+- News.md
