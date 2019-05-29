@@ -1008,24 +1008,25 @@ a.hero-arrow {
 }
 
 .contact {
-    background:#f4f4f4;
-    margin-top:150px;
+    background: #f4f4f4;
+    margin-top: 150px;
+    float: left;
+    width: 100%;
 }
 .contact_wrap {
-    background:white;
-    margin-top:-50px;
-    padding:60px 40px;
-    box-shadow: 0 0 0 15px silver;
-    -webkit-box-shadow: 0 0 0 15px silver;
-    -moz-box-shadow: 0 0 0 15px silver;
+    background: white;
+    margin-top: -70px;
+    padding: 60px 0px;
+    box-shadow: 0 0 30px rgba(192, 192, 192, 0.2);
+    -webkit-box-shadow: 0 0 30px rgba(192, 192, 192, 0.2);
+    -moz-box-shadow: 0 0 30px rgba(192, 192, 192, 0.2);
+    float: left;
+    width: 100%;
 }
-.contact-left {
+.contact-left, .contact-right {
     float:left;
     width:50%;
-}
-.contact-right {
-    float:left;
-    width:50%;
+    padding:0 50px;
 }
 .contact-form input {
     float:left;
@@ -1035,6 +1036,8 @@ a.hero-arrow {
     padding:7px;
     text-transform:uppercase;
     margin-bottom:20px;
+    font-size: 13px;
+    font-weight: 400;
 }
 .contact-form textarea {
     float:left;
@@ -1044,9 +1047,12 @@ a.hero-arrow {
     text-transform:uppercase;
     margin-bottom:20px;
     background:#f7f7f7;
-    height:150px;
+    height:100px;
+    font-size: 13px;
+    font-weight: 400;
+    box-sizing:border-box;
 }
-.submit-form-btn {
+.contact-form-btn {
     background:#1c1c1c;
     padding:7px;
     color:white;
@@ -1055,6 +1061,11 @@ a.hero-arrow {
     width:150px;
     float:right;
     text-transform:uppercase;
+    font-size: 13px;
+    font-weight: 400;
+}
+.contact-form-btn:hover {
+    opacity:0.7;
 }
 
 .content-subhead {
@@ -1084,7 +1095,8 @@ a.hero-arrow {
     margin-top: 60px;
     font-size: 13px;
     text-align: center;
-    color: hsla(0, 0%, 100%, .4)
+    color: hsla(0, 0%, 100%, .4);
+    clear:both;
 }
 
 .site-footer a {
