@@ -2,7 +2,7 @@
 layout: person
 title: Ron Keefe
 sub_heading: General Partner
-thumbnail: ''
+thumbnail: "/uploads/2019/05/28/img-placeholder.png"
 linkedin: https://www.linkedin.com/in/ron-keefe-8a428945/
 
 ---
