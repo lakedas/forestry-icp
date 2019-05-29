@@ -24,3 +24,5 @@ fields:
   type: text
   hidden: true
   default: person
+pages:
+- _people/ron-keefe.md
