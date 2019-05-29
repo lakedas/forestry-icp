@@ -7,5 +7,3 @@ fields:
   config:
     required: false
   label: Heading
-pages:
-- News.md
