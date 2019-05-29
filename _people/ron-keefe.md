@@ -4,7 +4,6 @@ title: Ron Keefe
 sub_heading: General Partner
 thumbnail: ''
 linkedin: https://www.linkedin.com/in/ron-keefe-8a428945/
-published: false
 
 ---
 Ron is counsel to Stewart McKelvey, a leading Atlantic Canada law firm. He is engaged in business start-up and funding providing capital and mentorship to early stage businesses. He is a director of several companies including Halibut PEI, ScreenScape, and Handyman Labs and provides mentorship to emerging companies like Somru Bioscience, Pfera Inc., and Nutracelle.
