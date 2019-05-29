@@ -1,4 +1,9 @@
 ---
 label: Page
 hide_body: true
-fields: []
+fields:
+- name: test
+  type: text
+  config:
+    required: false
+  label: Test
