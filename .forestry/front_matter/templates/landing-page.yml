@@ -46,6 +46,15 @@ fields:
   name: show_staff
   label: Show Staff?
   description: Enables a staff section that lists each person in the People collection
+- name: contact_message
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Contact Message
 - name: layout
   label: Layout
   type: text
