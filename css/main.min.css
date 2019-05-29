@@ -1007,6 +1007,56 @@ a.hero-arrow {
     font-size: 22px;
 }
 
+.contact {
+    background:#f4f4f4;
+    margin-top:150px;
+}
+.contact_wrap {
+    background:white;
+    margin-top:-50px;
+    padding:60px 40px;
+    box-shadow: 0 0 0 15px silver;
+    -webkit-box-shadow: 0 0 0 15px silver;
+    -moz-box-shadow: 0 0 0 15px silver;
+}
+.contact-left {
+    float:left;
+    width:50%;
+}
+.contact-right {
+    float:left;
+    width:50%;
+}
+.contact-form input {
+    float:left;
+    width:100%;
+    border:0;
+    border-bottom:1px solid #e3e3e3;
+    padding:7px;
+    text-transform:uppercase;
+    margin-bottom:20px;
+}
+.contact-form textarea {
+    float:left;
+    width:100%;
+    border:1px solid #e3e3e3;
+    padding:7px;
+    text-transform:uppercase;
+    margin-bottom:20px;
+    background:#f7f7f7;
+    height:150px;
+}
+.submit-form-btn {
+    background:#1c1c1c;
+    padding:7px;
+    color:white;
+    text-decoration:none;
+    display:inline-block;
+    width:150px;
+    float:right;
+    text-transform:uppercase;
+}
+
 .content-subhead {
     margin: 50px 0 20px;
     font-weight: 300;
@@ -1141,53 +1191,6 @@ a.hero-arrow {
 .search-box.search-box-sm .icon-search {
     top: 9px;
     font-size: 18px
-}
-
-.doc-edit {
-    float: right;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-    opacity: .5;
-    font-size: 20px
-}
-
-.doc-edit:hover {
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-    opacity: 1
-}
-
-.expanding-faq {
-    padding: 12px 20px;
-    background-color: #f3f3f3;
-    margin: 10px 0;
-    border-radius: 3px;
-    cursor: pointer
-}
-
-.expanding-faq.hover {
-    background-color: #eee
-}
-
-.expanding-faq:first-child {
-    margin-top: 30px
-}
-
-.expanding-faq h2 {
-    margin: 0;
-    font-size: 18px
-}
-
-.expanding-faq h2 a {
-    text-decoration: none;
-    display: block;
-    color: #061828
-}
-
-.expanding-faq h2 .icon {
-    float: right
-}
-
-.expanding-faq .answer {
-    display: none
 }
 
 .section-heading {
@@ -1506,134 +1509,6 @@ nav ul a {
     text-transform: capitalize
 }
 
-.main-message {
-    text-align: center;
-    padding: 30px 0;
-    background: #f4f4f4;
-    color: #1e405d
-}
-
-.main-message p {
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 1.5em
-}
-
-.contact {
-    margin-bottom: -60px
-}
-
-.services {
-    text-align: center;
-    padding: 40px 0;
-    color: #1e405d
-}
-
-.services h2 {
-    font-weight: 700;
-    font-size: 20px
-}
-
-.services .service-icon img {
-    width: 70px
-}
-
-.services p {
-    max-width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    font-weight: 400;
-    line-height: 1.3em
-}
-
-.feature {
-    background: url(../img/background-image.jpg);
-    background-size: cover;
-    text-align: center;
-    box-sizing: border-box;
-    padding: 60px 0;
-    height: 400px
-}
-
-.feature h2 {
-    font-size: 40px;
-    color: #fff;
-    font-weight: 700
-}
-
-.feature p {
-    font-size: 30px;
-    color: hsla(0, 0%, 100%, .7);
-    font-weight: 400
-}
-
-.news-twitter {
-    background: #f4f4f4;
-    color: #1e405d;
-    padding: 50px 0
-}
-
-.news-twitter h2 {
-    font-weight: 700
-}
-
-.news-twitter .container>div:last-child {
-    border-left: 1px solid #ddd
-}
-
-.news-twitter .col-wrap {
-    padding: 0 50px
-}
-
-.news-twitter .posts {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    margin-bottom: 40px
-}
-
-.news-twitter .posts li {
-    margin-bottom: 1.5em
-}
-
-.news-twitter .posts li a {
-    text-decoration: none;
-    color: #1e405d;
-    font-size: 18px
-}
-
-.news-twitter .posts li date {
-    display: block;
-    font-size: 14px;
-    color: rgba(#1e405d, 0.5)
-}
-
-.news-twitter a.button-outline i {
-    font-size: 10px
-}
-
-.partners {
-    margin: 60px 200px
-}
-
-.partners .container {
-    max-width: 800px
-}
-
-.partners h2 {
-    text-align: center;
-    font-size: 22px;
-    font-weight: 700;
-    color: #1e405d;
-    margin-bottom: 60px
-}
-
-@media (max-width:1024px) {
-    .partners {
-        margin: 60px auto
-    }
-}
-
 .list-layout {
     border-bottom: 1px solid #eee;
     padding-bottom: 20px;
@@ -1753,19 +1628,6 @@ nav ul a {
 .grid-layout .card .card-body p {
     font-size: 14px
 }
-
-.profile-photo {
-    border-radius: 50%;
-    margin: 1em auto;
-    overflow: hidden;
-    max-width: 200px
-}
-
-.profile-photo img {
-    display: block;
-    width: 100%
-}
-
 
 /* Search box*/
 
