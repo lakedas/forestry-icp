@@ -1143,7 +1143,7 @@ a.hero-arrow {
 .mobile-menu-trigger:hover span,
 .mobile-menu-trigger:focus span,
 .mobile-menu-trigger:active span {
-    background: #1ec7ce;
+    background: #222;
 }
 
 .menu-icon.is-active span:nth-child(1),
@@ -1161,7 +1161,7 @@ a.hero-arrow {
 }
 
 .mobile-menu-show {
-	width:90%;
+	width:100% !important;;
 }
 
 .site-footer {
@@ -1890,11 +1890,18 @@ nav ul a {
 	    right: 70px;
 	    transition:2s all;
 	}
+	.navigation li:first-of-type {
+		padding-top:40x
+	}
+	.navigation li:last-of-type {
+		padding-bottom:40x
+	}
 	.navigation li {
 		float: left;
-		width: 100%;
+		width: 80%;
 		box-sizing: border-box;
 		margin: 0;
+		padding:0 30px;
 	}
 	.navigation li a {
 		color: white;
@@ -1902,7 +1909,7 @@ nav ul a {
 	.navigation li:last-of-type a {
 	    background: transparent;
 	    border-radius:0;
-	    padding: inherit;
+	    padding:13px 5px 11px 5px;
 	    margin-top: 0;
 	}
 }
