@@ -22,5 +22,9 @@ fields:
     required: false
   hidden: true
   label: Layout
+- name: hero_arrow
+  type: boolean
+  label: Hero Arrow
+  description: Toggle arrow on/off
 pages:
 - news.md
