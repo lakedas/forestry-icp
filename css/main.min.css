@@ -1031,6 +1031,7 @@ a.hero-arrow {
 }
 .contact-left p {
     margin-top:5px;
+    line-height:32px;
 }
 .contact-form input {
     float:left;
@@ -1038,7 +1039,6 @@ a.hero-arrow {
     border:0;
     border-bottom:1px solid #e3e3e3;
     padding:7px;
-    text-transform:uppercase;
     margin-bottom:20px;
     font-size: 13px;
     font-weight: 400;
@@ -1048,7 +1048,6 @@ a.hero-arrow {
     width:100%;
     border:1px solid #e3e3e3;
     padding:7px;
-    text-transform:uppercase;
     margin-bottom:20px;
     background:#f7f7f7;
     height:100px;
