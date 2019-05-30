@@ -22,3 +22,5 @@ fields:
     required: false
   hidden: true
   label: Layout
+pages:
+- news.md
