@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: landing-page
+layout: home
 heading: Helping startups and entrepreneurs build great companies
 sub_heading: Early stage Venture Capital for Prince Edward Island Companies.
 show_staff: true
