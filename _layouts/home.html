@@ -6,17 +6,18 @@ layout: home
 	layout for home page
 {% endcomment %}
 
-{% assign stripped_content = content | strip_newlines %}
-{% if content and stripped_content != "" %}
-<section class="about">
-	<div class="container pure-g">
-		<div class="pure-u-1">
-			<div class="content content-narrow">
-				{{ content }}
-			</div>
-		</div>
-	</div>
-</section>
-{% endif %}
+{% include head.html %}
 
+{% include nav.html %}
+
+{% include hero.html %}
+		
+{% include about.html %}
+		
+{% include portfolio.html %}
+		
 {% include staff.html %}
+		
+{% include contact.html %}
+
+{% include footer.html %}
