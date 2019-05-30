@@ -12,18 +12,18 @@ layout: news
 
 {% include hero.html %}
 		
-{% for post in site.posts %}
 <div class="container pure-g">
   <div class="pure-u-1">
       <div class="content content-narrow">
+      {% for post in site.posts %}
         <div class="list-layout">
-          <h2><a href="{{ post.press_release_url | absolute_url }}">{{ post.title }}</a></h2>
+          <h3 style="text-align:center"><a href="{{ post.press_release_url | absolute_url }}">{{ post.title }}</a></h3>
         </div>
+      {% endfor %}
       </div>
     </div>
   </div>
 </div>
-{% endfor %}
 		
 {% include contact.html %}
 
