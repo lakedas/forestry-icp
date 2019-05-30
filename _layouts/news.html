@@ -17,9 +17,7 @@ layout: news
   <div class="pure-u-1">
       <div class="content content-narrow">
         <div class="list-layout">
-          <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-          <div>{{ post.content | truncatewords: 30 }}</div>
-          <date>{{ post.date | date_to_string }}</date>
+          <h2><a href="{{ post.press_release_url | absolute_url }}">{{ post.title }}</a></h2>
         </div>
       </div>
     </div>
