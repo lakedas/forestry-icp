@@ -1161,7 +1161,10 @@ a.hero-arrow {
 }
 
 .mobile-menu-show {
-	width:100% !important;;
+	width:100% !important;
+}
+.mobile-menu-show a {
+        text-indent: 0;
 }
 
 .site-footer {
@@ -1887,14 +1890,11 @@ nav ul a {
 	    top: 0;
 	    left: 0;
 	    bottom: 0;
-	    right: 70px;
+	    right: 0px;
 	    transition:2s all;
 	}
 	.navigation li:first-of-type {
-		padding-top:40x
-	}
-	.navigation li:last-of-type {
-		padding-bottom:40x
+		padding-top:20px
 	}
 	.navigation li {
 		float: left;
@@ -1905,6 +1905,9 @@ nav ul a {
 	}
 	.navigation li a {
 		color: white;
+		font-size:0;
+		text-index:-999px;
+		transition:2s all !important;
 	}
 	.navigation li:last-of-type a {
 	    background: transparent;
