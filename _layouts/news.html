@@ -16,7 +16,7 @@ layout: news
   <div class="pure-u-1">
       <div class="content content-narrow">
       {% for post in site.posts %}
-        <div class="list-layout">
+        <div class="list-layout news-post">
           <h3 style="text-align:center"><a href="{{ post.press_release_url | absolute_url }}">{{ post.title }}</a></h3>
         </div>
       {% endfor %}
