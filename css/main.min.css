@@ -1073,11 +1073,11 @@ a.hero-arrow {
     opacity:0.7;
 }
 
-.news-post h3 {
+.news-post h3 a {
     text-decoration: none;
     color: #1ec7ce;
 }
-.news-post h3:hover {
+.news-post h3 a:hover {
     text-decoration: underline;
 }
 
