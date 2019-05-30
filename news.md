@@ -1,4 +1,4 @@
 ---
 heading: Test
-layout: default
+layout: page
 ---
