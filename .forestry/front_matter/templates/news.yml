@@ -7,6 +7,10 @@ fields:
   config:
     required: false
   label: Heading
+- name: hero_arrow
+  type: boolean
+  label: Hero Arrow
+  description: Toggle arrow on/off
 - name: contact_message
   type: textarea
   default: ''
@@ -22,9 +26,5 @@ fields:
     required: false
   hidden: true
   label: Layout
-- name: hero_arrow
-  type: boolean
-  label: Hero Arrow
-  description: Toggle arrow on/off
 pages:
 - news.md
