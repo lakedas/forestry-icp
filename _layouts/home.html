@@ -1,0 +1,22 @@
+---
+layout: home
+---
+
+{% comment %}
+	layout for home page
+{% endcomment %}
+
+{% assign stripped_content = content | strip_newlines %}
+{% if content and stripped_content != "" %}
+<section class="about">
+	<div class="container pure-g">
+		<div class="pure-u-1">
+			<div class="content content-narrow">
+				{{ content }}
+			</div>
+		</div>
+	</div>
+</section>
+{% endif %}
+
+{% include staff.html %}
