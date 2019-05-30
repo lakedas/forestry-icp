@@ -21,3 +21,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/febuary-2018-icp-media-release-island-water-technologies-garago-software.md
