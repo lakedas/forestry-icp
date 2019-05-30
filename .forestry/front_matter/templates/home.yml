@@ -35,6 +35,11 @@ fields:
     schema:
       format: markdown
   label: About Description
+- name: about_image
+  type: file
+  config:
+    maxSize: 250
+  label: About Image
 - name: portfolio_heading
   type: text
   config:
