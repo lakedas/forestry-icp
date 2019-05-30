@@ -21,3 +21,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/january-2017-icp-media-release-onset-communication.md
