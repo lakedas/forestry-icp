@@ -1,4 +1,4 @@
 ---
 heading: Test
-layout: press-releases
+layout: default
 ---
