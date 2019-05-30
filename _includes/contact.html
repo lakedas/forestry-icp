@@ -9,8 +9,9 @@
           <p>{{ page.contact_message }}</p>
         </div>
         <div class="contact-right">
-          <form action="" method="POST" class="contact-form">
-            <input type="text" name="cName" id="cName" placeholder="Name" />
+          <form action="//formspree.io/michael@lakedesign.co" method="POST" class="contact-form">
+            <input type="hidden" name="_subject" value="Information request" />
+            <input type="text" name="name" id="name" placeholder="Name" />
             <input type="email" name="email" id="email" placeholder="Email" />
             <input type="phone" name="phone" id="phone" placeholder="Phone" />
             <textarea name="message" id="messagge" placeholder="Message"></textarea>
