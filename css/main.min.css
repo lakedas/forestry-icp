@@ -1128,16 +1128,16 @@ a.hero-arrow {
 }
 
 .menu-icon span:nth-child(1) {
-    top: 0.09375em;
+    top: 0.39375em
 }
 	
 .menu-icon span:nth-child(2),
 .menu-icon span:nth-child(3) {
-    top: 0.5375em;
+    top: 0.9375em;
 }
 
 .menu-icon span:nth-child(4) {
-    top: 0.975em;
+    top: 1.475em;
 }
 
 .mobile-menu-trigger:hover span,
@@ -1158,6 +1158,10 @@ a.hero-arrow {
 .menu-icon.is-active span:nth-child(3) {
 	top: 0.9375em;
 	transform: rotate(-45deg);
+}
+
+.mobile-menu-show {
+	width:90%;
 }
 
 .site-footer {
@@ -1223,7 +1227,36 @@ a.hero-arrow {
 }
 
 @media (max-width:768px) {
-    .mobile-menu-trigger {display:block;}   
+	.mobile-menu-trigger {display:block;}   
+	.main-nav ul {
+	    width: 0;
+	    padding: 0;
+	    float: right;
+	    margin-top: 0;
+	    position: absolute;
+	    background: #1ec7ce;
+	    color: white;
+	    top: 0;
+	    left: 0;
+	    bottom: 0;
+	    right: 70px;
+	    transition:2s all;
+	}
+	.navigation li {
+		float: left;
+		width: 100%;
+		box-sizing: border-box;
+		margin: 0;
+	}
+	.navigation li a {
+		color: white;
+	}
+	.navigation li:last-of-type a {
+	    background: transparent;
+	    border-radius:0;
+	    padding: inherit;
+	    margin-top: 0;
+	}
 }
 
 
@@ -1329,12 +1362,6 @@ nav ul a {
     margin-left: 5px;
     margin-right: -10px;
     width: 11px
-}
-
-@media (max-width:768px) {
-    .main-nav {
-        display: none
-    }
 }
 
 .side-nav {
