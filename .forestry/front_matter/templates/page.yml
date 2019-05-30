@@ -8,4 +8,4 @@ fields:
     required: false
   label: Heading
 pages:
-- news.md
+- News.md
