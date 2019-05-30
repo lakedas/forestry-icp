@@ -35,6 +35,18 @@ $('a[href*="#"]')
     }
 });
 
+function updateMenuButton() {
+	$('.mobile-menu-trigger').find('.menu-icon').toggleClass('is-active');
+}
+
+// Mobile Menu
+$(document).ready(function() {
+	$('.mobile-menu-trigger').click(function(e){
+		e.preventDefault();
+		updateMenuButton();
+	});
+});
+
 /*
 window.addEventListener("load", function(){
 	var div = document.querySelector(".plain-header h2");
