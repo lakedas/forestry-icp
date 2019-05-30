@@ -1,13 +1,13 @@
 ---
 navigation:
-- url: "#contact"
-  weight: 5
-  title: Contact Us
-- weight: 4
-  title: News
 - url: "#about"
   weight: 1
   title: About
+- weight: 4
+  title: News
+- url: "#contact"
+  weight: 5
+  title: Contact Us
 - identifier: _about
   weight: 2
   url: "#portfolio"
