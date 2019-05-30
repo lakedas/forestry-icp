@@ -1161,7 +1161,7 @@ a.hero-arrow {
 
 .mobile-menu-show {
 	width:100% !important;
-	opacity:1.0 !imporant;
+	margin-left:0; !important;
 }
 
 .site-footer {
@@ -1877,7 +1877,7 @@ nav ul a {
 @media (max-width:768px) {
 	.mobile-menu-trigger {display:block;}   
 	.main-nav ul {
-	    opacity:0;
+	    margin-left:-100%;
 	    width: 0;
 	    padding: 0;
 	    float: right;
@@ -1889,7 +1889,7 @@ nav ul a {
 	    left: 0;
 	    bottom: 0;
 	    right: 0px;
-	    transition:2s all;
+	    transition:1.5s all;
 	}
 	.navigation li:first-of-type {
 		padding-top:20px
