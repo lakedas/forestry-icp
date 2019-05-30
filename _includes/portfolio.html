@@ -2,7 +2,7 @@
     Displays list of portfolio items
 {% endcomment %}
 
-<section class="portfolio">
+<section id="portfolio" class="portfolio">
     <div class="container">
         <h2>{{ page.portfolio_heading }}</h2>
         {% assign sorted = (site.portfolio | sort: 'date') | reverse %}
