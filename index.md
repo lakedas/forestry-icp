@@ -13,7 +13,7 @@ portfolio: []
 portfolio_heading: Our Portfolio
 portfolio_call_to_action: View Press Releases
 contact_message: If you are interested in learning on how to become a portfolio company
-  with Island Capital Partners, please send us a message
+  with Island Capital Partners, please send us a message.
 hero_arrow: true
 
 ---
