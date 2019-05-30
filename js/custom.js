@@ -35,15 +35,16 @@ $('a[href*="#"]')
     }
 });
 
-function updateMenuButton() {
+function toggleMobileMenu() {
 	$('.mobile-menu-trigger').find('.menu-icon').toggleClass('is-active');
+	$('.navigation').toggleClass('mobile-menu-show');
 }
 
 // Mobile Menu
 $(document).ready(function() {
 	$('.mobile-menu-trigger').click(function(e){
 		e.preventDefault();
-		updateMenuButton();
+		toggleMobileMenu();
 	});
 });
 
