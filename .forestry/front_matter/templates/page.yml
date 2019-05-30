@@ -8,5 +8,4 @@ fields:
     required: false
   label: Heading
 pages:
-- news.md.md
 - news.md
