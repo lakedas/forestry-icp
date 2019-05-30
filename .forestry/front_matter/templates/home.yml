@@ -17,6 +17,10 @@ fields:
   name: sub_heading
   label: Hero Sub heading
   default: ''
+- name: hero_arrow
+  type: boolean
+  label: Hero Arrow
+  description: Toggle arrow on/off
 - name: about_heading
   type: text
   config:
