@@ -9,7 +9,7 @@
         {% for item in sorted %}<div class="pure-u-1 pure-u-md-1-2">
             <div class="portfolio-box">
               <div class="company">
-                  <div class="portfolio-logo"><img src="{{ item.company_logo | absolute_url }}" alt=""></div>
+                  <div class="portfolio-logo"><div class="p-l-wrap"><img src="{{ item.company_logo | absolute_url }}" alt=""></div></div>
                   <div class="portfolio-info">
                       <h3>{{ item.company }}</h3>
                       <p>{{ item.content }}</p>
