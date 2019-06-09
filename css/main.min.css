@@ -868,6 +868,10 @@ a.hero-arrow {
     font-size:36px;
 }
 
+.about-description {
+	white-space:pre-wrap;
+}
+
 .about_box {
     float:left;
     width:60%;
