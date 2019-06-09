@@ -929,18 +929,24 @@ a.hero-arrow {
     filter:brightness(100%);
 }
 .company img {
-    transform: rotate(-90deg);
-    position: absolute;
-    top: 50%;
-    display: block;
-    left: -37px;
-    filter: brightness(0);
-    max-width:150px;
+    width:100%;
 }
 
 .portfolio-logo {
     width:20%;
     position:relative;
+}
+
+.p-l-wrap {
+    transform: rotate(-90deg);
+    position: absolute;
+    top: 50%;
+    display: block;
+    left: 0;
+    filter: brightness(0);
+    margin-top: -75px;
+    width: 170px;
+    height: 150px;
 }
 
 .portfolio-info {
