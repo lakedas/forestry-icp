@@ -1123,11 +1123,35 @@ a.hero-arrow {
 .news-post h3 a {
     text-decoration: none;
     color: #1ec7ce;
+    font-size: 30px;
+    line-height: 40px;
 }
 .news-post h3 a:hover {
     text-decoration: underline;
 }
-
+.post-meta {
+    text-align: center;
+    font-size: 15px;
+}
+.post-content {
+    text-align: center;
+    font-weight: 400;
+}
+.learn-more {
+    padding: 10px;
+    width: 150px;
+    display: block;
+    margin: 25px auto 20px;
+    text-align: center;
+    color: #1ec7ce;
+    text-decoration: none;
+    border: 2px solid #1ec7ce;
+    transition:0.4s all;
+}
+.learn-more:hover {
+    background:#1ec7ce;
+    color:white;
+}
 .content-subhead {
     margin: 50px 0 20px;
     font-weight: 300;
