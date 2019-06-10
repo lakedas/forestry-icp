@@ -7,5 +7,14 @@ fields:
   config:
     required: false
   label: Heading
+- name: contact_message
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Contact Message
 pages:
 - 404.md
