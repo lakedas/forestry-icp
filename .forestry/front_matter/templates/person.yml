@@ -24,6 +24,16 @@ fields:
   type: text
   hidden: true
   default: person
+- name: order
+  type: number
+  label: Order
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  description: The order they should show up on the site
 pages:
 - _people/stephanie-corbett.md
 - _people/paul-lypaczewski.md
