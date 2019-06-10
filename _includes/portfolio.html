@@ -6,7 +6,7 @@
     <div class="container">
         <h2>{{ page.portfolio_heading }}</h2>
         {% assign sorted = (site.portfolio | sort: 'order') %}
-        {% for item in sorted %}<div class="pure-u-1 pure-u-md-1-2">
+        {% for item in sorted %}<div class="pure-u-1 pure-u-md-1-2 fade animated">
             <div class="portfolio-box">
               <div class="company">
                   <div class="portfolio-logo"><div class="p-l-wrap p-l-{{ item.company | downcase | slice: 0, 5 }}"><img src="{{ item.company_logo | absolute_url }}" alt=""></div></div>
