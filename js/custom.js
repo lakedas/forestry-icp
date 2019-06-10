@@ -70,10 +70,16 @@ $(document).ready(function(){
   $('.sectors').waypoint(function() {
 	$('.sectors').addClass('fadeInLeft');
   }, { offset: '75%' });
-  $('.person:nth-of-type(1)').waypoint(function() {
-	$('.person:nth-of-type(1) img').addClass('fadeInDown');
-	$(this).children('.person-info').addClass('fadeInUp');
-  }, { offset: '75%' });
+  $('.person').each(function() {
+	$(this).waypoint(function() {
+		$(this).children('img').addClass('fadeInDown');
+		$(this).children('.person-info').addClass('fadeInUp');
+  	}, { offset: '75%' });
+  });
+  //$('.person:nth-of-type(1)').waypoint(function() {
+  //	$('.person:nth-of-type(1) img').addClass('fadeInDown');
+  //	$(this).children('.person-info').addClass('fadeInUp');
+  //}, { offset: '75%' });
 
  
 });
