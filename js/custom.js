@@ -70,6 +70,10 @@ $(document).ready(function(){
   $('.sectors').waypoint(function() {
 	$('.sectors').addClass('fadeInLeft');
   }, { offset: '75%' });
+  $('.person').waypoint(function() {
+	$(this).children('img').addClass('fadeInDown');
+	$(this).children('.person-info').addClass('fadeInUp');
+  }, { offset: '75%' });
 
  
 });
