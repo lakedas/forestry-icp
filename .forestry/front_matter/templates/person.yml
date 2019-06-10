@@ -25,7 +25,7 @@ fields:
   hidden: true
   default: person
 pages:
-- _people/ron-keefe.md
-- _people/alex-macbeath.md
-- _people/paul-lypaczewski.md
 - _people/stephanie-corbett.md
+- _people/paul-lypaczewski.md
+- _people/alex-macbeath.md
+- _people/ron-keefe.md

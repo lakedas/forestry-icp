@@ -11,9 +11,19 @@ fields:
   description: Dimensions work best at 400 pixels by 100 pixels
   hidden: false
   default: ''
+- name: order
+  type: number
+  label: Order
+  description: The order they should show up on the site
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
-- _portfolio/Garago.md
-- _portfolio/Forestry.md
+- _portfolio/Bluefield Seeding Solutions.md
 - _portfolio/Stash.md
 - _portfolio/Island Water Technologies.md
-- _portfolio/Bluefield Seeding Solutions.md
+- _portfolio/Garago.md
+- _portfolio/Forestry.md
