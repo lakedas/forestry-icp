@@ -72,14 +72,23 @@ $(document).ready(function(){
   }, { offset: '75%' });
   $('.person').each(function() {
 	$(this).waypoint(function() {
-		$(this).children('img').addClass('fadeInDown');
-		$(this).children('.person-info').addClass('fadeInUp');
+		$(this.element).find('img').addClass('fadeInDown');
+		$(this.element).find('.person-info').addClass('fadeInUp');
   	}, { offset: '75%' });
   });
-  //$('.person:nth-of-type(1)').waypoint(function() {
-  //	$('.person:nth-of-type(1) img').addClass('fadeInDown');
-  //	$(this).children('.person-info').addClass('fadeInUp');
-  //}, { offset: '75%' });
+  $('.pure-u-md-1-2:nth-of-type(odd)').each(function() {
+  	$(this).waypoint(function() {
+		$(this.element).addClass('fadeInLeft');
+  	}, { offset: '75%' });
+  });
+  $('.pure-u-md-1-2:nth-of-type(even)').each(function() {
+  	$(this).waypoint(function() {
+		$(this.element).addClass('fadeInRight');
+  	}, { offset: '75%' });
+  });
+  $('.contact').waypoint(function() {
+	$('.contact').addClass('fadeInTop');
+  }, { offset: '75%' });
 
  
 });
