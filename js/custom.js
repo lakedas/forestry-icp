@@ -52,10 +52,10 @@ $(document).ready(function() {
 $(document).ready(function(){
  
   $('.plain-header h2').waypoint(function() {
-      $('.plain-header h2').addClass('fadeInBottom');
+      $('.plain-header h2').addClass('fadeInDown');
   }, { offset: '50%' });
   $('.plain-header h3').waypoint(function() {
-      $('.plain-header h2').addClass('fadeInBottom');
+      $('.plain-header h3').addClass('fadeInUp');
   }, { offset: '50%' });
  
 });
