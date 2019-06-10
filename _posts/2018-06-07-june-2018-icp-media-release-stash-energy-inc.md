@@ -1,52 +1,22 @@
 ---
 layout: post
 title: Island Capital Partners Invests $255,000 into Energy Storage Tech Company
-date: 2018-06-07T03:00:00.000+00:00
+date: 2018-06-07 00:00:00 -0300
 press_release_url: "/uploads/2019/05/30/Stash-Media-Release-.pdf"
 location: Charlottetown
+excerpt: Island Capital Partners has just confirmed a $255,000 investment into Stash
+  Energy Inc., a Clean Energy Storage company. This investment will be used accelerate
+  the development of their Stash M1 comfort system, which is expected to launch in
+  early 2019.
 
 ---
 _Management team of ICP makes 5th investment_
 
-**CHARLOTTETOWN – June 11, 2018** – Island Capital Partners has just confirmed a $255,000 investment into Stash
+**CHARLOTTETOWN – June 11, 2018** – Island Capital Partners has just confirmed a $255,000 investment into Stash Energy Inc., a Clean Energy Storage company. This investment will be used accelerate the development of their Stash M1 comfort system, which is expected to launch in early 2019.
 
-Energy Inc., a Clean Energy Storage company. This investment will be used accelerate the development of their
+The founders of Stash Energy have developed one of most cost effective and eco-friendly heating & cooling energy storage solution to hit the market. Their technology will fundamentally improve the way that energy is generated, delivered, and consumed. Energy Storage provides a solution to many of the problems that utility companies face, one of the largest being how to meet energy demands at peak times. Using renewable energy generation such as wind and solar requires energy storage devices in order to balance the mismatch between when energy is created vs when peak consumption occurs.
 
-Stash M1 comfort system, which is expected to launch in early 2019.
-
-The founders of Stash Energy have developed one of most cost effective and eco-friendly heating & cooling energy
-
-storage solution to hit the market. Their technology will fundamentally improve the way that energy is generated,
-
-delivered, and consumed. Energy Storage provides a solution to many of the problems that utility companies face,
-
-one of the largest being how to meet energy demands at peak times. Using renewable energy generation such as
-
-wind and solar requires energy storage devices in order to balance the mismatch between when energy is created
-
-vs when peak consumption occurs.
-
-Stash has been working with the City of Summerside since inception and has used their forward-thinking programs
-
-and customers to beta test the M1 system.
-
-“Summerside is pleased to have partnered and invested in Stash Energy”, a growing and innovative company,
-
-quotes Bill Martin Mayor City of Summerside. Under our Living Lab Program, we were able to facilitate a unique
-
-partnership to accelerate bringing their product to market faster and provide important real-world testing with
-
-expert support in dealing with key supply chains to mitigate early market adoption challenges, continues Mayor
-
-Martin. Summerside is a unique municipality that reduce the development timeframe and validation proof
-
-towards commercialization. “In Summerside we understand the challenges business face when developing and
-
-testing technology and our team is dedicated to reducing development time and validation so business can get to
-
-market faster”, concludes Mayor Martin. Stash Energy is an example of great technology, strong talent and
-
-innovative solutions for a complex energy market.
+Stash has been working with the City of Summerside since inception and has used their forward-thinking programs and customers to beta test the M1 system. “Summerside is pleased to have partnered and invested in Stash Energy”, a growing and innovative company, quotes Bill Martin Mayor City of Summerside. Under our Living Lab Program, we were able to facilitate a unique partnership to accelerate bringing their product to market faster and provide important real-world testing with expert support in dealing with key supply chains to mitigate early market adoption challenges, continues Mayor Martin. Summerside is a unique municipality that reduce the development timeframe and validation proof towards commercialization. “In Summerside we understand the challenges business face when developing and testing technology and our team is dedicated to reducing development time and validation so business can get to market faster”, concludes Mayor Martin. Stash Energy is an example of great technology, strong talent and innovative solutions for a complex energy market.
 
 Island Capital Partners has co-lead the $500,000 Seed Round with New Brunswick Innovation Foundation (NBIF).
 
