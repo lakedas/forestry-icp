@@ -1022,14 +1022,14 @@ a.hero-arrow {
     color: #00c3cb;
     font-family: "Montserrat", sans-serif;
     font-weight: 900;
-    margin: 0 0 5px;
-    font-size: 15px;
+    margin: 0 0 -5px;
+    font-size: 17px;
 }
 .person-content {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 400;
-    letter-spacing: -0.5px;
-    line-height: 1.6em;
+    letter-spacing: -0.3px;
+    line-height: 1.7em;
 }
 .person-info a {
     color: #00c3cb;
