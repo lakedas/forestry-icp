@@ -888,6 +888,18 @@ a.hero-arrow {
     min-height:400px;
 }
 
+.fund-row {
+    padding:20px 0;
+    border-bottom:1px solid black;
+    float:left;
+    width:100%;
+}
+
+.fund-left, .fund-right {
+    float:left;
+    width:50%;
+}
+
 .portfolio {
     padding: 100px 0;
     background: url(/uploads/2019/05/28/rectangle-bg.png);
