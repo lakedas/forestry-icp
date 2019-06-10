@@ -925,7 +925,7 @@ a.hero-arrow {
     box-shadow:0 0 14px 0 #ebebeb;
     transform:scale(1.1);
 }
-.company:hover img {
+.company:hover .p-l-wrap {
     filter:brightness(100%);
 }
 .company img {
@@ -947,6 +947,16 @@ a.hero-arrow {
     margin-top: -75px;
     width: 170px;
     height: 150px;
+}
+
+.p-l-stash {
+    width: 120px;
+    margin-left: 30px;	
+}
+
+.p-l-bluef {
+    width: 150px;
+    margin-left: -35px;
 }
 
 .portfolio-info {
