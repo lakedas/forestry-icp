@@ -1419,6 +1419,9 @@ nav ul a {
     position: relative
 }
 
+/* ANIMATIONS */
+.fade {opacity:0;}
+
 
 /* dropdown main nav from http://ermauliks.github.io/2014/04/21/multilevel-navigation-using-jekyll/*/
 
