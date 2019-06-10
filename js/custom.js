@@ -48,6 +48,18 @@ $(document).ready(function() {
 	});
 });
 
+// Animations
+$(document).ready(function(){
+ 
+  $('.plain-header h2').waypoint(function() {
+      $('.plain-header h2').addClass('fadeInBottom');
+  }, { offset: '50%' });
+  $('.plain-header h3').waypoint(function() {
+      $('.plain-header h2').addClass('fadeInBottom');
+  }, { offset: '50%' });
+ 
+});
+
 /*
 window.addEventListener("load", function(){
 	var div = document.querySelector(".plain-header h2");
