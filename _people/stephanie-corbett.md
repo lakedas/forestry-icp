@@ -4,7 +4,7 @@ title: Stephanie Corbett
 sub_heading: Associate & Director of Operations
 thumbnail: "/uploads/2019/05/28/img-placeholder.png"
 linkedin: https://www.linkedin.com/in/stefanie-corbett-b22776120/
-order: 
+order: 4
 
 ---
 Stefanie has been helping entrepreneurs work towards achieving their objectives for over 10 years. With a background in business banking, financial analysis, and leading high performing sales teams, she has a passion for pushing entrepreneurship forward and helping companies gain easier access to capital.
