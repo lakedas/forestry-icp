@@ -1026,8 +1026,10 @@ a.hero-arrow {
     font-size: 15px;
 }
 .person-content {
-    font-size: 13.5px;
+    font-size: 15px;
     font-weight: 400;
+    letter-spacing: -0.5px;
+    line-height: 1.6em;
 }
 .person-info a {
     color: #00c3cb;
