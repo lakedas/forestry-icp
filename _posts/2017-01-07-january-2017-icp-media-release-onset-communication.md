@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Island Capital Partners Invests $230,000 into Prince Edward Island Tech  '
-date: 01 7, 2017
+date: 2018-01-31 01:00:00 -0400
 press_release_url: "/uploads/2019/05/30/January2017ICPMediaRelease.pdf"
 location: Charlottetown
 excerpt: Island Capital Partners, a Venture Capital group based in Charlottetown has
