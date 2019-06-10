@@ -18,7 +18,7 @@ layout: news
       {% for post in site.posts %}
         <div class="list-layout news-post">
           <h3 style="text-align:center"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
-	  <p class="post-meta">{{ post.location }} - {{ post.date | date: format: 'long'}}</p>
+	  <p class="post-meta">{{ post.location }} - {{ post.date }}</p>
 	  <p class="post-content">{{ post.excerpt | truncate: 150 }}</p>
           <a class="learn-more" href="{{ post.url }}">Learn More</a>
         </div>
