@@ -40,6 +40,31 @@ fields:
   config:
     maxSize: 250
   label: About Image
+- name: fund_heading
+  type: text
+  config:
+    required: false
+  label: Fund Heading
+- name: fund_size
+  type: text
+  config:
+    required: false
+  label: Fund Size
+- name: investment_size
+  type: text
+  config:
+    required: false
+  label: Investment Size
+- name: stage
+  type: text
+  config:
+    required: false
+  label: Stage
+- name: sectors
+  type: text
+  config:
+    required: false
+  label: Sectors
 - name: portfolio_heading
   type: text
   config:
