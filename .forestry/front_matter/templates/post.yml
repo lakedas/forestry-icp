@@ -21,6 +21,16 @@ fields:
   name: press_release_url
   label: Press Release
   description: Upload the press release in PDF format
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Excerpt
+  description: Content snippet for news page (max. 150 characters)
 - name: layout
   label: Layout
   type: text
