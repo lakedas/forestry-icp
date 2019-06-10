@@ -21,6 +21,27 @@ layout: post
 			{% if page.sub_heading and page.sub_heading != "" %}
 			<h3 class="fade animated">{{ page.sub_heading }}</h3>
 		{% endif %}
+	        <div class="post-meta">
+			{% if page.date %}
+			<div class="post-date" style="margin-top:40px">{{ page.date | date: "%B %-d, %Y" }}</div>
+			{% endif %}
+			{% if page.tags.size > 0 %}
+			<span class="meta-separator">&bull;</span>
+			<ul class="tags-list">
+			  <li class="inline tag_list_item">
+				Tags:
+			  </li>
+				{% for tag in page.tags %}
+			  <li class="inline tag_list_item">
+			    {{ tag }}
+			    {% if forloop.last == true %}{% else %}
+			      <span>,</span>
+			    {% endif %}
+			  </li>
+			  {% endfor %}
+			</ul>
+			{% endif %}
+		      </div>
 		</div>
 	</div>
 </header>
@@ -28,28 +49,7 @@ layout: post
 <div class="container">
   <div class="pure-u-1">
     <div class="content content-narrow">
-      <div class="post-meta">
-        {% if page.date %}
-        <div class="post-date">{{ page.date | date_to_string }}</div>
-        {% endif %}
-        {% if page.tags.size > 0 %}
-        <span class="meta-separator">&bull;</span>
-        <ul class="tags-list">
-          <li class="inline tag_list_item">
-						Tags:
-					</li>
-					{% for tag in page.tags %}
-          <li class="inline tag_list_item">
-            {{ tag }}
-            {% if forloop.last == true %}{% else %}
-              <span>,</span>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </div>
-
+	    
       {{ content }}
 
       {% if page.related_posts.size > 0 %}
