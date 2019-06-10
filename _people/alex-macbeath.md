@@ -4,6 +4,7 @@ title: Alex MacBeath
 sub_heading: General Partner
 thumbnail: "/uploads/2019/05/28/img-placeholder.png"
 linkedin: https://www.linkedin.com/in/alex-macbeath-829a2315/
+order: 3
 
 ---
 Alex has over 40 years of experience with entrepreneurial companies. As Managing Director at Island Capital Partners he oversees investment activities and relationships with investors.
