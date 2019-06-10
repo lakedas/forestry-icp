@@ -1,30 +1,31 @@
 ---
 layout: post
-title: Island Capital Partners Invests $230,000 into Prince Edward Island Tech
+title: I Island Capital Partners $500,000 seed capital investment for Island Water
+  Technologies
 date: 2018-02-07T04:00:00.000+00:00
 press_release_url: "/uploads/2019/05/30/January2017ICPMediaRelease.pdf"
-excerpt: Island Capital Partners, a Venture Capital group based in Charlottetown has
-  just confirmed a $230,000 investment into local tech company Onset Communication
-  Inc.
+excerpt: Island Water Technologies Inc. (IWT) has announced a $500,000 seed capital
+  investment by Island Capital Partners and Natural Products Canada for water technology
+  commercialization.
 location: Charlottetown
 
 ---
-**CHARLOTTETOWN – January 31, 2018** – Island Capital Partners, a Venture Capital group based in Charlottetown has just confirmed a $230,000 investment into local tech company Onset Communication Inc.
+Island Water Technologies Inc. (IWT) has announced a $500,000 seed capital investment by Island Capital Partners and Natural Products Canada for water technology commercialization.
 
-Onset Communication Inc. has developed The Visual Assistant, a visual communication tool that reduces miscommunication, delays and mistakes on film and TV production sets. A prototype version of the system has been tested on productions over the past 18 months and the feedback has helped with product development, as well as creating market demand.
+The deal comes on the heels of a string of successes for IWT, including its recent acceptance into esteemed water accelerator, [Imagine H2O](https://www.watercanada.net/canadian-companies-selected-to-participate-in-intl-accelerator-program/), as well as commercial wastewater projects in North Africa, China, and Kenya.
 
-Renee Laprise, producer/director of The Lovely Witches Club series says, “We had a small budget, a tight schedule and small crew. The Visual Assistant was crucial to us successfully getting all the content we needed at the quality we needed. The efficiency the device brought to the shoot was so important.”
+“It’s clear that our products are hitting the market at a time when wastewater issues are critical,” said Dr. Patrick Kiely, founder and CEO of IWT. “This investment enables us to take full advantage of the strategic opportunities that lie before us and get these disruptive solutions deployed to a global marketplace.”
 
-Onset has also established a distribution agreement with William F White International Inc (WFW), the largest film equipment rental company in Canada. Rick Perotto, VP of Business Development at WFW believes that “the Visual Assistant has the potential to revolutionize the production workflow and we are excited to get started.”
+IWT’s attributes part of its success to a highly effective support system in the Atlantic Canada region, including the National Research Council, PEI BioAlliance, Innovation PEI, the Atlantic Canada Opportunities Agency, Dalhousie University, and Innovacorp.
 
-Paul Lypaczewski, Investment Director with Island Capital Partners has worked with the Onset team for the past two years and says, “Over my years spent delivering production solutions to the media creation industries, it’s been clear that the primary focus must be on the user experience, using technology as a core underpinning. What we saw in Onset Communication was a unique combination of technological expertise coupled with a deep understanding of the film and video production process, all led by an experienced Management Team. We are excited for the potential for The Video Assistant to become an essential part of any production set as it streamlines the communication process and unleashes the customer’s creative vision”.
+“A successful innovation ecosystem requires capital investment that can take technology companies through to a position of sustainable revenue growth. This support by ICP and NCP will be central to our growth and success going forward,” said Patrick Kiely, CEO Island Water Technologies.
 
-Onset co-founder and CEO, Brian Sharp is excited about the ICP investment: "It's been a three-year journey to turn my vision and passion into a funded business. We could not have arrived at this starting line without the support of our investors at Island Capital Partners, the mentoring and guidance provided by Startup Zone; and the constant engagement and support of our distribution partner, William F White. It is so exciting to finally be in the race to build a really cool and really successful international business!"
+![](https://www.watercanada.net/wp-content/uploads/2018/02/Rachel-Investment-768x407.jpg =500x265)_Shelly King (CEO, Natural Products Canada), Alex MacBeath (CEO, Island Capital Partners) and Rachel Paterson (director operations, Island Water Technologies). Credit: IWT._
 
-**Media Contact**
+Island Water Technologies (IWT) has developed, and is now commercializing next generation solutions in wastewater treatment, sensing and control. It is focused on two proprietary technologies: REGEN, a containerized enhanced fixed film wastewater solution and SENTRY, a bio-electrode sensor platform that allows for real-time monitoring of microbial activity and key wastewater contaminants in wastewater treatment facilities.
 
-_Stefanie Corbett_
+“There is increasing need and demand for sustainable, reliable, and cost-effective solutions for waste water treatment and water purification,” said Alex MacBeath, CEO Island Capital Partners. “Island Water Technologies Inc. has developed innovative products with significant global market potential. We are pleased to be investing in IWT as it begins to commercialize next generation solutions.”
 
-_(902) 393-3630_
+Island Capital Partners is a Venture Capital investment fund, established in 2017, aimed at investing in high growth potential, early stage Prince Edward Island Start-Up companies.
 
-_scorbett@peislandcapitalpartners.com_
+Natural Products Canada is a not-for-profit organization with a vision to make Canada flourish as the Silicon Valley of natural products.
