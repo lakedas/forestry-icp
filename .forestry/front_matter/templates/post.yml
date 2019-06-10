@@ -12,6 +12,9 @@ fields:
   type: datetime
   hidden: false
   default: ''
+  config:
+    date_format: MM DD, YYYY
+    export_format: MM DD, YYYY
 - name: location
   type: text
   config:
