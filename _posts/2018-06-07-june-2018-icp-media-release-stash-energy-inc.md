@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Island Capital Partners Invests $255,000 into Energy Storage Tech Company
-date: 06 07, 2018
+date: 2018-06-11 01:00:00 -0300
 press_release_url: "/uploads/2019/05/30/Stash-Media-Release-.pdf"
 location: Charlottetown
 excerpt: Island Capital Partners has just confirmed a $255,000 investment into Stash
