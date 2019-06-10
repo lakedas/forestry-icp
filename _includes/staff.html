@@ -6,7 +6,7 @@
 <section id="team" class="staff">
     <div class="container pure-g">
         <div class="pure-u-1">
-        {% assign people = (site.people | sort: 'order') }
+        {% assign people = (site.people | sort: 'order') %}
         {% for person in people %}
             <div class="person">
                 {% if person.thumbnail %}
