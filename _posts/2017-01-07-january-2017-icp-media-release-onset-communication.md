@@ -1,8 +1,12 @@
 ---
 layout: post
-title: January 2017, ICP Media Release – Onset Communication
+title: 'Island Capital Partners Invests $230,000 into Prince Edward Island Tech  '
 date: 01 7, 2017
 press_release_url: "/uploads/2019/05/30/January2017ICPMediaRelease.pdf"
+location: Charlottetown
+excerpt: Island Capital Partners, a Venture Capital group based in Charlottetown has
+  just confirmed a $230,000 investment into local tech company Onset Communication
+  Inc.
 
 ---
 _Management team of ICP makes investment_
