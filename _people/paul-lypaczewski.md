@@ -4,7 +4,7 @@ title: Paul Lypaczewski
 sub_heading: General Partner
 thumbnail: "/uploads/2019/05/28/img-placeholder.png"
 linkedin: https://www.linkedin.com/in/paul-lypaczewski-6840a01/
-order: 
+order: 5
 published: false
 
 ---
