@@ -8,4 +8,6 @@ layout: person
 order: 1
 
 ---
-After many years of experience leading venture-backed technology companies as a CEO, Steve is now in pseudo-retirement and happily investing his time advising young entrepreneurs and the companies they lead. Steve's international executive experience spans telecoms, video surveillance, wireless convergence, and healthcare IT. The companies he has led have delivered innovative customer value, returned over $300M to their investors, and provided employment to thousands of truly great people.
+After many years of experience leading venture-backed technology companies as a CEO, Steve is now in pseudo-retirement and happily investing his time advising young entrepreneurs and the companies they lead. 
+
+Steve's international executive experience spans telecoms, video surveillance, wireless convergence, and healthcare IT. The companies he has led have delivered innovative customer value, returned over $300M to their investors, and provided employment to thousands of truly great people.
