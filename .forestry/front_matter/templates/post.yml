@@ -13,8 +13,8 @@ fields:
   hidden: false
   default: ''
   config:
-    date_format: "%B D, YYYY"
-    export_format: MM DD, YYYY
+    date_format: MM D, YYYY
+    export_format: MM D, YYYY
 - name: location
   type: text
   config:
