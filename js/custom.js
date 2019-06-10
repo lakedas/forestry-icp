@@ -53,10 +53,24 @@ $(document).ready(function(){
  
   $('.plain-header h2').waypoint(function() {
       $('.plain-header h2').addClass('fadeInDown');
-  }, { offset: '50%' });
-  $('.plain-header h3').waypoint(function() {
       $('.plain-header h3').addClass('fadeInUp');
   }, { offset: '50%' });
+  $('.about_image').waypoint(function() {
+	$('.about_image').addClass('slideInRight');
+  }, { offset: '50%' });
+  $('.fund_size').waypoint(function() {
+	$('.fund_size').addClass('fadeInLeft');
+  }, { offset: '50%' });
+  $('.investment_size').waypoint(function() {
+	$('.investment_size').addClass('fadeInLeft');
+  }, { offset: '50%' });
+  $('.stage').waypoint(function() {
+	$('.stage').addClass('fadeInLeft');
+  }, { offset: '50%' });
+  $('.sectors').waypoint(function() {
+	$('.sectors').addClass('fadeInLeft');
+  }, { offset: '50%' });
+
  
 });
 
