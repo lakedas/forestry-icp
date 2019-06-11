@@ -835,7 +835,7 @@ p {
     background: white;
     padding: 80px 40px 40px;
     text-align: center;
-    min-height:1vh;
+    min-height:100vh;
 }
 
 .hero-pad {
