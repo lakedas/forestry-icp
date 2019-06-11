@@ -832,11 +832,12 @@ p {
 .plain-header {
     background: white;
     padding: 40px;
-    text-align: center
+    text-align: center;
+    min-height:1vh;
 }
 
 .hero-pad {
-    padding: 125px 0;
+    padding: 115px 0 125px;
 }
 
 .plain-header h2 {
