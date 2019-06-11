@@ -858,15 +858,36 @@ p {
 }
 
 a.hero-arrow {
-    text-align: center;
     display: block;
-    width: 14px;
+    width: 28px;
+    height: 47px;
     margin: 0 auto;
-    color: black;
-    border: 0;
-    text-decoration: none;
-    padding: 0 5px;
+    padding: 0;
 }
+
+.scroll {
+	animation-name: scroll;
+	animation-duration: 1.5s;
+	animation-timing-function: cubic-bezier(0.650, -0.550, 0.250, 1.500);
+	animation-iteration-count: infinite;
+	transform-origin: 50% 20.5px;
+	will-change: transform, opacity;
+	opacity: 1;
+}
+
+@keyframes scroll {
+
+	0%, 20% {
+		transform: translateY(0) scaleY(1);
+	}
+
+	100% {
+		transform: translateY(36px) scaleY(2);
+		opacity: 0;
+	}
+
+}
+
 
 .about {
     position:relative;
@@ -1060,12 +1081,11 @@ font-size: 17px;
 }
 .linked {
     position: absolute;
-    left: 15px;
-    bottom: 15px;
+    left: 0px;
+    bottom: 0px;
     font-size: 17px;
     color: white;
     opacity: 0.8;
-    border-radius: 100%;
     background: rgb(30, 199, 206);
     padding: 10px 15.57px;
 }
