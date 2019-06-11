@@ -11,6 +11,12 @@ fields:
   description: Dimensions work best at 400 pixels by 100 pixels
   hidden: false
   default: ''
+- name: website_url
+  type: text
+  config:
+    required: false
+  label: Website URL
+  description: Link to company website
 - name: order
   type: number
   label: Order
