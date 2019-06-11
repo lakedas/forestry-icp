@@ -54,6 +54,7 @@ $(document).ready(function(){
   $('.plain-header h2').waypoint(function() {
       $('.plain-header h2').addClass('fadeIn');
       $('.plain-header h3').addClass('fadeIn');
+      $('.hero-arrow').addClass('fadeIn');
   }, { offset: '50%' });
   $('.about_image').waypoint(function() {
 	$('.about_image').addClass('fadeInRight');
