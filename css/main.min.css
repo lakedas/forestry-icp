@@ -1082,10 +1082,15 @@ font-size: 17px;
     width:100%;
     position:relative;
 }
+.person-img {
+    float:left;
+    width:50%;
+    margin-top:40px;
+}
 .linked {
     position: absolute;
     left: 0px;
-    bottom: 0px;
+    bottom: 8px;
     font-size: 17px;
     color: white;
     opacity: 0.8;
@@ -1096,9 +1101,7 @@ font-size: 17px;
     opacity:1.0;
 }
 .person img {
-    float:left;
-    width:50%;
-    margin-top:40px;
+    width:100%;
 }
 .person-info {
     float: left;
