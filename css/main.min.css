@@ -1040,12 +1040,13 @@ a.hero-arrow {
     float: left;
     width: 50%;
     background: #f4f4f4;
-    padding: 20px 30px;
+    padding: 20px 50px;
 }
 .person-info h3 {
     font-weight: bold;
     margin: 20px 0 15px;
     font-size: 22px;
+	letter-spacing: 0;
 }
 .person-info h4 {
     color: #00c3cb;
@@ -1053,11 +1054,13 @@ a.hero-arrow {
     font-weight: 900;
     margin: 0 0 -5px;
     font-size: 17px;
+    letter-spacing: 0.2px;
 }
 .person-content {
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 400;
-    letter-spacing: -0.3px;
+    letter-spacing: 0;
+font-family: open sans;
     line-height: 1.7em;
 }
 .person-info a {
@@ -1420,7 +1423,7 @@ nav ul a {
 .main-nav li {
     float: left;
     margin: 0;
-    margin-left: 2px
+    margin-left: 22px
 }
 
 .main-nav li a {
