@@ -1173,12 +1173,37 @@ a.hero-arrow {
     margin-right: auto
 }
 
+.content-single {
+    padding-bottom:50px;
+}
+
 .content-single p {
     margin: 0;
     padding-bottom: 1.75em;
     line-height: 1.75em;
 }
 
+.download-pdf {
+    padding: 20px 30px 20px 99px;
+    background: #1ec7ce;
+    color: white !important;
+    font-size: 22px;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+}
+.download-pdf:hover {
+    opacity:0.85;	
+}
+.download-pdf i {
+    margin-right: 15px;
+    font-size: 27px;
+    background: #0ba0a7;
+    padding: 19px 25px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
 .mobile-menu-trigger {
     display:none;   
     float: right;
