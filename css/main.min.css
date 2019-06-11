@@ -1565,6 +1565,10 @@ nav ul a {
     font-weight: 700
 }
 
+.navigation li.current a:after {
+    border-color:#1ec7ce;
+}
+
 .navigation .second-level {
     left: 100%;
     top: 0
