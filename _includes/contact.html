@@ -6,7 +6,11 @@
     <div class="container">
       <div class="contact_wrap fade animated">
         <div class="contact-left">
-          <p>{{ page.contact_message }}</p>
+          <h2>Contact Us</h2>
+          {% for info in site.data.information %}
+          <p>{{ info.message }}</p>
+          <p><i class="fas fa-map-marker-alt"></i>{{ info.address_1 }}<br>{{ info.city }}, {{ info.province }}<br>{{ info.postal_code }}</p>
+          <p><i class="fas fa-envelope"></i>{{ info.email }}</p>
         </div>
         <div class="contact-right">
           <form action="//formspree.io/michael@lakedesign.co" method="POST" class="contact-form">
