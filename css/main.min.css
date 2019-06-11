@@ -1041,11 +1041,26 @@ font-family: open sans;
     margin: 0 auto 50px;
     float:left;
     width:100%;
+    position:relative;
 }
 .person img {
     float:left;
     width:50%;
     margin-top:40px;
+}
+.linked {
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+    font-size: 25px;
+    border-radius: 100%;
+    background: #1ec7ce;
+    color: white;
+    padding: 10px 12px;
+    opacity:0.8;
+}
+.linked:hover {
+   opacity:1.0;	
 }
 .person-info {
     float: left;
