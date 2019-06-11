@@ -1,10 +1,12 @@
 ---
+message: ''
 phone: ''
 email: ''
 address_1: 31 Queen St
 address_2: ''
 city: Charlottetown
-state: PE
+province: PE
 postal_code: C1A 4A4
 country: Canada
 twitter: island_capital
+linked-in: island_capital
