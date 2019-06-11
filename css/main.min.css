@@ -1043,6 +1043,14 @@ font-size: 17px;
 
 .staff {
     padding:100px 0;
+    background-image: url(/uploads/2019/06/11/50.png);
+    background-repeat: no-repeat;
+    background-position: 0 35px;
+}
+.staff h2 {
+    letter-spacing: normal;
+    margin: 0 0 50px;
+    font-size: 38px;	
 }
 .person {
     margin: 0 auto 50px;
@@ -1122,9 +1130,15 @@ font-family: open sans;
     width:50%;
     padding:0 50px;
 }
+.contact-left h2 {
+    margin-top:0;
+    font-size:38px;
+}
 .contact-left p {
     margin-top:5px;
-    line-height:32px;
+    margin-top: 5px;
+    line-height: 1.7em;
+    letter-spacing: 0;
 }
 .contact-form input {
     float:left;
