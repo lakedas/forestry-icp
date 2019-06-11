@@ -1167,9 +1167,16 @@ font-family: open sans;
    letter-spacing: 0;
    font-family: open sans;
    line-height: 1.7em;
+   float:left;
+   width:100%;
 }
 .contact-left i {
-    margin-right:10px;	
+    margin-right: 10px;
+    margin-top: 6px;
+    float: left;
+}
+.contact-left span {
+    float:left;
 }
 .contact-form input {
     float:left;
