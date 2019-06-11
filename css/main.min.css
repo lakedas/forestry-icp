@@ -1054,12 +1054,12 @@ font-size: 17px;
     position: absolute;
     left: 15px;
     bottom: 15px;
-    font-size: 25px;
+    font-size: 17px;
     color: white;
     opacity: 0.8;
     border-radius: 100%;
     background: rgb(30, 199, 206);
-    padding: 10px 12px;
+	padding: 10px 16px;
 }
 .linked:hover {
     opacity:1.0;
