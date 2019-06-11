@@ -1139,6 +1139,11 @@ font-family: open sans;
     margin-top: 5px;
     line-height: 1.7em;
     letter-spacing: 0;
+   font-size: 16px;
+   font-weight: 400;
+   letter-spacing: 0;
+   font-family: open sans;
+   line-height: 1.7em;
 }
 .contact-left i {
     margin-left:10px;	
