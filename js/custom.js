@@ -85,7 +85,7 @@ $(document).ready(function(){
   $('.pure-u-md-1-2:nth-of-type(even)').each(function() {
   	$(this).waypoint(function() {
 		$(this.element).addClass('fadeInRight');
-		$(this.element).addClass('delay-1s');
+		$(this.element).addClass('delay-025s');
   	}, { offset: '75%' });
   });
   $('.contact').waypoint(function() {
