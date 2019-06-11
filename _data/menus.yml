@@ -3,9 +3,6 @@ navigation:
 - url: "#about"
   weight: 1
   title: About
-- weight: 4
-  title: News
-  url: "/news"
 - url: "#contact"
   weight: 5
   title: Contact Us
