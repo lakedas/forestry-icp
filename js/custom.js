@@ -73,7 +73,7 @@ $(document).ready(function(){
   }, { offset: '75%' });
   $('.person').each(function() {
 	$(this).waypoint(function() {
-		$(this.element).find('.person-image').addClass('fadeInDown');
+		$(this.element).find('.person-img').addClass('fadeInDown');
 		$(this.element).find('.person-info').addClass('fadeInUp');
   	}, { offset: '75%' });
   });
