@@ -1048,6 +1048,21 @@ font-size: 17px;
     margin: 0 auto 50px;
     float:left;
     width:100%;
+    position:relative;
+}
+.linked {
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+    font-size: 25px;
+    color: white;
+    opacity: 0.8;
+    border-radius: 100%;
+    background: rgb(30, 199, 206);
+    padding: 10px 12px;
+}
+.linked:hover {
+    opacity:1.0;
 }
 .person img {
     float:left;
