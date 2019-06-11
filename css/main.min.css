@@ -832,7 +832,7 @@ p {
 }
 
 .plain-header {
-    background: white;
+    background: url(/uploads/2019/06/11/backgroundtest.jpg');
     padding: 80px 40px 40px;
     text-align: center;
     min-height:100vh;
