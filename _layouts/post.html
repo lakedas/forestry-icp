@@ -52,7 +52,7 @@ layout: post
 	    
       {{ content }}
 	    
-      <a href="{{ page.press_release_url | absolute_url }}"><i class="fas fa-file-alt"></i>Download PDF</a>
+      <a class="download-pdf" href="{{ page.press_release_url | absolute_url }}"><i class="fas fa-file-alt"></i>Download PDF</a>
 
       {% if page.related_posts.size > 0 %}
 			<hr>
