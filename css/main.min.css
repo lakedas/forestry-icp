@@ -1136,6 +1136,7 @@ font-family: open sans;
     font-size: 15px;
     font-weight: 400;
     font-family: open sans;
+	    letter-spacing: 0;
 }
 .contact-form textarea {
     float:left;
@@ -1149,6 +1150,8 @@ font-family: open sans;
     font-weight: 400;
     box-sizing:border-box;
 	font-family: open sans;
+	margin-top: 20px;
+	    letter-spacing: 0;
 }
 .contact-form-btn {
     background:#1c1c1c;
@@ -1164,6 +1167,7 @@ letter-spacing: 0.2px;
 text-transform: uppercase;
 font-weight: 700;
 font-size: 17px;
+	border-radius: 200px; 
 }
 .contact-form-btn:hover {
     opacity:0.7;
