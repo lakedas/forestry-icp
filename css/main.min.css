@@ -1140,6 +1140,9 @@ font-family: open sans;
     line-height: 1.7em;
     letter-spacing: 0;
 }
+.contact-left i {
+    margin-left:10px;	
+}
 .contact-form input {
     float:left;
     width:100%;
