@@ -1133,8 +1133,9 @@ font-family: open sans;
     border-bottom:1px solid #e3e3e3;
     padding:7px;
     margin-bottom:20px;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 400;
+    font-family: open sans;
 }
 .contact-form textarea {
     float:left;
@@ -1144,9 +1145,10 @@ font-family: open sans;
     margin-bottom:20px;
     background:#f7f7f7;
     height:100px;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 400;
     box-sizing:border-box;
+	font-family: open sans;
 }
 .contact-form-btn {
     background:#1c1c1c;
