@@ -10,12 +10,14 @@
         {% assign people = (site.people | sort: 'order') %}
         {% for person in people %}
             <div class="person">
-                {% if person.thumbnail %}
-                    <img class="fade animated" alt="{{ person.title }}" src="{{ person.thumbnail | absolute_url }}">
-                {% else %}
-                    <img class="fade animated" alt="{{ person.title }}" src="{{ "/uploads/2019/05/28/img-placeholder.png" | absolute_url }}>
-                {% endif %}
-                <a class="linked fade animated" href="{{ person.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
+                <div class="person-img fade animated">
+                    {% if person.thumbnail %}
+                        <img alt="{{ person.title }}" src="{{ person.thumbnail | absolute_url }}">
+                    {% else %}
+                        <img alt="{{ person.title }}" src="{{ "/uploads/2019/05/28/img-placeholder.png" | absolute_url }}>
+                    {% endif %}
+                    <a class="linked" href="{{ person.linkedin }}"><i class="fab fa-linkedin-in"></i></a>
+                </div>
                 <div class="person-info fade animated">
                     <h3>{{ person.title }}</h3>
                     {% if person.sub_heading %}
