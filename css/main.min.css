@@ -833,11 +833,12 @@ p {
 }
 
 .bg-wrap {
-	background: url(/uploads/2019/06/11/noshadow.png);
-	background-position: -629px -10px; 
-	background-repeat: no-repeat;
-	background-size: 160%;
-	min-height:1500px;
+    background: url(/uploads/2019/06/11/maybe.png);
+    background-position: right 200px;
+    background-repeat: no-repeat;
+    background-size: 55%;
+    float: left;
+    width: 100%;
 }
 
 .plain-header {
