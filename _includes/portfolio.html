@@ -8,13 +8,15 @@
         {% assign sorted = (site.portfolio | sort: 'order') %}
         {% for item in sorted %}<div class="pure-u-1 pure-u-md-1-2 fade animated">
             <div class="portfolio-box">
-              <div class="company">
-                  <div class="portfolio-logo"><div class="p-l-wrap p-l-{{ item.company | downcase | slice: 0, 5 }}"><img src="{{ item.company_logo | absolute_url }}" alt=""></div></div>
-                  <div class="portfolio-info">
-                      <h3>{{ item.company }}</h3>
-                      <p>{{ item.content }}</p>
-                  </div>
-              </div>
+              <a href="{{ item.website_url }}" target="_blank">
+                  <div class="company">
+                      <div class="portfolio-logo"><div class="p-l-wrap p-l-{{ item.company | downcase | slice: 0, 5 }}"><img src="{{ item.company_logo | absolute_url }}" alt=""></div></div>
+                      <div class="portfolio-info">
+                          <h3>{{ item.company }}</h3>
+                          <p>{{ item.content }}</p>
+                      </div>  
+                </div>
+              </a>
             </div>
         </div>{% endfor %}
         <a class="portfolio-cta" href="/news">{{ page.portfolio_call_to_action }}</a>
