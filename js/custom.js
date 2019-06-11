@@ -74,6 +74,7 @@ $(document).ready(function(){
   $('.person').each(function() {
 	$(this).waypoint(function() {
 		$(this.element).find('img').addClass('fadeInDown');
+		$(this.element).find('.linked').addClass('fadeInDown');
 		$(this.element).find('.person-info').addClass('fadeInUp');
   	}, { offset: '75%' });
   });
