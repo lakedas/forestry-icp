@@ -1554,7 +1554,7 @@ nav ul a {
 }
 
 .navigation li.current>a {
-    color: ##1ec7ce;
+    color: #1ec7ce;
 }
 
 .navigation>li>a:hover:after {
