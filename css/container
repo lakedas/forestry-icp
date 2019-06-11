@@ -597,6 +597,11 @@ html[xmlns] .flexslider .slides {
     margin: 0 auto
 }
 
+.site-header .container {
+    max-width: 1180px;
+    margin: 0 auto
+}
+
 @media #{"(min-width: 1024px) and (max-width: 1280px)"} {
     .container {
         max-width: 1024px;
