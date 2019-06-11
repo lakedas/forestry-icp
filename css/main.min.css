@@ -832,14 +832,14 @@ p {
 }
 
 .plain-header {
-    background: url(/uploads/2019/06/11/backgroundtest.jpg);
     padding: 80px 40px 40px;
     text-align: center;
     min-height:100vh;
+    position:relative;
 }
 
 .hero-pad {
-    padding: 115px 0 125px;
+    padding: 13% 0 12%;
 }
 
 .plain-header h2 {
@@ -866,6 +866,10 @@ a.hero-arrow {
     height: 47px;
     margin: 0 auto;
     padding: 0;
+    position:absolute;
+    bottom:8px;
+    left:50%;
+    margin-left:-14px;
 }
 
 .scroll {
