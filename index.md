@@ -15,7 +15,7 @@ portfolio_call_to_action: View Press Releases
 contact_message: If you are interested in learning on how to become a portfolio company
   with Island Capital Partners, please send us a message.
 hero_arrow: true
-about_image: "/uploads/2019/05/30/header (1).jpg"
+about_image: "/uploads/2019/06/11/placeholder.jpg"
 fund_heading: Fund Facts
 fund_size: 4.3 million
 investment_size: 150,000 - 250,000
