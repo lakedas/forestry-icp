@@ -598,8 +598,8 @@ html[xmlns] .flexslider .slides {
 }
 
  .site-header .container {
-    max-width: 1180px;
-    width: 1180px;
+    max-width: 1140px;
+    width: 1140px;
     margin: 0 auto;	 
 }
 
@@ -848,7 +848,7 @@ p {
 }
 
 .plain-header h3 {
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 700;
     margin: 1em 0 0;
     color: black;
@@ -1420,7 +1420,7 @@ nav ul a {
 .main-nav li {
     float: left;
     margin: 0;
-    margin-left: 30px
+    margin-left: 2px
 }
 
 .main-nav li a {
@@ -1512,6 +1512,7 @@ nav ul a {
     display: block;
     white-space: nowrap;
     line-height: 16px;
+	letter-spacing: 0.2px;
 }
 
 .navigation li a:after {
