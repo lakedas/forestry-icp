@@ -87,7 +87,7 @@ $(document).ready(function(){
   	}, { offset: '75%' });
   });
   $('.contact').waypoint(function() {
-	$('.contact').addClass('fadeInDown');
+	$('.contact_wrap').addClass('fadeInDown');
   }, { offset: '75%' });
 
 });
