@@ -831,6 +831,14 @@ p {
     }
 }
 
+.bg-wrap {
+	background: url(/uploads/2019/06/11/bgtest2.png);
+	background-position: -629px -10px; 
+	background-repeat: no-repeat;
+	background-size: 160%;
+	min-height:1500px;
+}
+
 .plain-header {
     padding: 80px 40px 40px;
     text-align: center;
