@@ -1067,7 +1067,7 @@ font-size: 17px;
     opacity: 0.8;
     border-radius: 100%;
     background: rgb(30, 199, 206);
-	padding: 10px 16px;
+    padding: 10px 15.57px;
 }
 .linked:hover {
     opacity:1.0;
@@ -1146,7 +1146,7 @@ font-family: open sans;
    line-height: 1.7em;
 }
 .contact-left i {
-    margin-left:10px;	
+    margin-right:10px;	
 }
 .contact-form input {
     float:left;
