@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Playfair+Display|Open+Sans:700,400);
 
 /* Vendor styles */
 
@@ -1983,12 +1983,14 @@ nav ul a {
 	.p-l-bluef {margin:-55px 0 !important;}
 	.portfolio-logo {padding: 20px;width:100%;}
 	.company img {width: 100%;height: auto;}
-	.person-img {width:100%;position:relative;margin-bottom:-80px}
+	.person-img {width:100%;position:relative;margin-bottom:-8px}
 	.linked {left:auto;right:0;}
 	.person-info {width: 100%;padding: 20px 20px;}
 	.staff {padding-bottom:0;}
 	.contact-left, .contact-right {width:100%;padding:0 20px;text-align:center}
 	.contact-right {margin-top:40px;}
+	.contact-left i {margin-right: 0;margin-top: 6px;float: none;display: block;margin-bottom: 10px;}
+	.contact-left span {float: none;margin-top: 20px;}
 	.contact-form-btn {width:100%;}
 	.site-footer .copyright p {padding:30px 15px}
 }
