@@ -17,6 +17,7 @@ $('a[href*="#"]')
       if (target.length) {
 	// Only prevent default if animation is actually gonna happen
 	event.preventDefault();
+	toggleMobileMenu();
 	$('html, body').animate({
 	  scrollTop: target.offset().top
 	}, 1000, function() {
@@ -46,6 +47,13 @@ $(document).ready(function() {
 		e.preventDefault();
 		toggleMobileMenu();
 	});
+	/*
+	$('.navigation li a').click(function(e) {
+	        e.preventDefault();
+		var url = $(this).a
+		toggleMobileMenu();
+	});
+	*/
 });
 
 // Animations
