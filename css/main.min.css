@@ -1952,6 +1952,7 @@ nav ul a {
 	    right: 0px;
 	    transition:1.5s all;
 	}
+	.navigation li.current>a {color:black;}
 	.navigation li:first-of-type {
 		padding-top:20px
 	}
