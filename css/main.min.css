@@ -1728,61 +1728,6 @@ nav ul a {
     padding: .5em 1.5em
 }
 
-.button-xsmall {
-    font-size: 70%
-}
-
-.button-small {
-    font-size: 85%
-}
-
-.button-large {
-    font-size: 110%
-}
-
-.button-xlarge {
-    font-size: 100%;
-    padding: 1em 3em
-}
-
-.button-error,
-.button-secondary,
-.button-success,
-.button-warning {
-    color: #fff;
-    border-radius: 4px;
-    text-shadow: none
-}
-
-.button-success {
-    background: #8b2004/* this is a green */
-}
-
-.button-error {
-    background: #ca3c3c/* this is a maroon */
-}
-
-.button-warning {
-    background: #df7514/* this is an orange */
-}
-
-.button-secondary {
-    background: #42b8dd/* this is a light blue */
-}
-
-.button-outline {
-    background: transparent;
-    border: 1px solid #999;
-    color: #555;
-    transition: all .2s ease
-}
-
-.button-outline:hover {
-    background: #8b2004;
-    color: #fff;
-    border-color: #8b2004
-}
-
 .meta {
     overflow: hidden
 }
@@ -1938,130 +1883,6 @@ nav ul a {
 .grid-layout .card .card-body p {
     font-size: 14px
 }
-
-/* Search box*/
-
-.dataTables_filter {
-    position: relative;
-    float: right
-}
-
-.dataTables_filter input {
-    border: 1px solid rgba(#1e405d, .3);
-    border-radius: 20px;
-    width: 100%;
-    width: 260px;
-    margin: 0 0 10px;
-    padding: 5px 35px 5px 20px;
-    line-height: 1.5em;
-    font-size: 14px
-}
-
-.dataTables_filter input:focus {
-    border-color: rgba(#1e405d, .6)
-}
-
-.dataTables_filter label:after {
-    font-family: FontAwesome;
-    content: "\f002";
-    font-style: normal;
-    font-weight: 400;
-    speak: none;
-    display: inline-block;
-    text-decoration: inherit;
-    text-align: center;
-    -webkit-font-feature-settings: normal;
-    font-feature-settings: normal;
-    font-variant: normal;
-    text-transform: none;
-    color: #1e405d;
-    right: 10px;
-    top: 4px;
-    position: absolute;
-    font-size: 20px;
-    color: rgba(#1e405d, .5)
-}
-
-.dataTables_filter label.focus:after {
-    color: rgba(#1e405d, .8)
-}
-
-.table-layout table {
-    border-radius: 3px;
-    overflow: hidden;
-    text-align: left;
-    border: 1px solid #eee;
-    border-collapse: separate;
-    border-collapse: initial;
-    width: 100%
-}
-
-.table-layout table thead {
-    background: #f4f4f4
-}
-
-.table-layout table thead th {
-    color: #1e405d
-}
-
-.table-layout table thead th .fa:after {
-    content: "\f107";
-    font-size: 12px;
-    vertical-align: middle
-}
-
-.table-layout table thead th.headerSortDown .fa:after {
-    content: "\f106"
-}
-
-.table-layout table thead th:hover {
-    background: #eee
-}
-
-.table-layout table td,
-.table-layout table th {
-    padding: 16px
-}
-
-.table-layout table tr {
-    border-bottom: 1px solid #eee
-}
-
-.table-layout table tr td {
-    padding: 15px;
-    font-size: 14px;
-    color: rgba(#1e405d, 0.5);
-    white-space: nowrap
-}
-
-.table-layout table tr td a {
-    text-decoration: none;
-    font-weight: 700;
-    color: #1e405d
-}
-
-.table-layout table tr td a:hover {
-    text-decoration: underline
-}
-
-.table-layout table tr td:first-child {
-    font-size: 16px;
-    white-space: normal
-}
-
-.table-layout table tbody tr:hover {
-    background: rgba(#1e405d, 0.03);
-    cursor: pointer
-}
-
-.table-layout table tbody tr:hover a {
-    text-decoration: underline
-}
-
-.dataTables_paginate {
-    margin-top: 2em
-}
-
 .paginate_button {
     display: inline-block;
     padding: 5px 10px
@@ -2106,7 +1927,15 @@ nav ul a {
     font-weight: 500
 }
 
+/* MOBILE */
+
 @media (max-width:768px) {
+	.site-header {min-height:100%;}
+	.logo a {
+    	    margin: 0 0 0 25px;	
+	    width:175px;
+	    height:58px;
+	}
 	.mobile-menu-trigger {display:block;}   
 	.main-nav ul {
 	    margin-left:-100%;
@@ -2143,6 +1972,23 @@ nav ul a {
 	    padding:13px 5px 11px 5px;
 	    margin-top: 0;
 	}
+	.plain-header {padding:60px 0 40px;}
+	.plain-header h2 { font-size:38px;}
+	.about_box {padding:50px 0;width:100%;text-align:center;}
+	.fund {padding:50px 0;text-align:center;}
+	.fund-left, .fund-right {width:100%;}
+	.portfolio-box {padding:50px 0 0 0;}
+	.company {width:100%;float:left;text-align:center;}
+	.p-l-wrap {transform:none;width:100%;height:auto;position:relative;marign:0}
+	.portfolio-logo {padding: 20px;width:100%;}
+	.company img {width: 100%;height: auto;}
+	.person-img {width:100%;position:relative;margin-bottom:-80px}
+	.linked {left:auto;right:0;}
+	.person-info {width: 100%;padding: 20px 20px;}
+	.staff {padding-bottom:0;}
+	.contact-left, .contact-right {width:100%;padding:0 20px;text-align:center}
+	.contact-right {margin-top:40px;}
+	.contact-form-btn {width:100%;}
 }
 
 
