@@ -1,7 +1,6 @@
 ---
 layout: post
-title: I Island Capital Partners $500,000 seed capital investment for Island Water
-  Technologies
+title: Island Capital Partners $500,000 seed capital investment for Island Water Technologies
 date: 2018-02-07T04:00:00.000+00:00
 press_release_url: "/uploads/2019/05/30/January2017ICPMediaRelease.pdf"
 excerpt: Island Water Technologies Inc. (IWT) has announced a $500,000 seed capital
