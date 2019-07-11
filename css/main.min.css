@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Oswald|Open+Sans:600,400);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Oswald|Open+Sans:600,500,400);
 
 /* Vendor styles */
 
@@ -856,19 +856,20 @@ p {
 .plain-header h2 {
     font-family: 'Oswald', serif;
     font-size: 58px;
-    font-weight: 400;
-    color: black;
-    margin: 0
+    font-weight: 600;
+    color: #191919;
+    margin: 0;
+    letter-spacing: 0px;
 }
 
 .plain-header h3 {
     font-size: 16px;
     font-weight: 600;
     margin: 1em 0 0;
-    color: black;
-	letter-spacing: 0.2px;
-	font-family: Open Sans;
-	
+    color: #191919;
+    letter-spacing: 0px;
+    text-transform: none;
+    font-family: Open Sans;
 }
 
 a.hero-arrow {
