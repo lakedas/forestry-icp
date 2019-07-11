@@ -68,7 +68,7 @@ $(document).ready(function() {
 		$(this).html(html);
 	});
 	$('.person').mouseenter(function(){
-		$(this).find('.eli').fadeOut();
+		$(this).find('.eli').hide();
 		$(this).find('.mc').fadeIn();
 	});
 	$('.person').mouseleave(function(){
