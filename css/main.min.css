@@ -961,7 +961,8 @@ a.hero-arrow {
 .fund-left, .fund-right {
     float:left;
     width:50%;
-    font-size:28px;
+    font-size:29px;
+    letter-spacing: 0;
 }
 
 .portfolio {
