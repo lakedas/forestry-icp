@@ -860,6 +860,7 @@ p {
     color: #191919;
     margin: 0;
     letter-spacing: 0px;
+	line-height: 1.3em;
 }
 
 .plain-header h3 {
@@ -870,6 +871,10 @@ p {
     letter-spacing: 0px;
     text-transform: none;
     font-family: Open Sans;
+    max-width: 550px;
+    margin: 0 auto;
+	line-height: 1.8em;
+	margin-top: 15px;
 }
 
 a.hero-arrow {
