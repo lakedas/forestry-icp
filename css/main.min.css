@@ -1098,11 +1098,12 @@ font-size: 17px;
     letter-spacing: normal;
     margin: 0 0 10px;
     font-size: 38px;	
+	display: block;
 }
 
 .staff h3 {
 	font-family: open sans; 
-	font-size: 18px; 
+	font-size: 22px; 
 	line-height: 1.5em; 
 	letter-spacing: 0;
 	text-transform: none;
