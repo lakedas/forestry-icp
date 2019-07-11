@@ -1102,6 +1102,13 @@ font-size: 17px;
 .person:nth-of-type(3) {
     margin-right:0;	
 }
+.person:nth-of-type(4) {
+    clear:left;
+    margin-left:17%;
+}
+.person:hover .person-info {
+    margin-top:-150px;	
+}
 .person-img {
     float:left;
     width:100%;
@@ -1110,7 +1117,7 @@ font-size: 17px;
     position: absolute;
     z-index: 9;
     right: 0px;
-    bottom: -15px;
+    top: -24px;
     font-size: 17px;
     color: white;
     border-top-left-radius: 2px;
@@ -1125,22 +1132,21 @@ font-size: 17px;
 .person img {
     width:100%;
 }
-.person-img {
-    position:relative;
-    z-index:2;
-}
 .person-info {
     margin-top: -8px;
     float: left;
     width: 100%;
     background: #f4f4f4;
     padding: 20px 25px;
+    position:relative;
+    z-index:2;
+    transition:0.4s all;
 }
 .person-info h3 {
     font-weight: bold;
     margin: 17px 0 10px;
     font-size: 22px;
-	letter-spacing: 0;
+    letter-spacing: 0;
 }
 .person-info h4 {
     color: #00c3cb;
@@ -1154,7 +1160,7 @@ font-size: 17px;
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 0;
-font-family: open sans;
+    font-family: open sans;
     line-height: 1.7em;
 }
 .person-info a {
