@@ -1,6 +1,6 @@
 ---
 navigation:
-- url: "#about"
+- url: "#fund"
   weight: 1
   title: About
 - url: "#contact"
