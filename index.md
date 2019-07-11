@@ -17,7 +17,7 @@ contact_message: If you are interested in learning on how to become a portfolio 
 hero_arrow: true
 about_image: "/uploads/2019/06/11/placeholder.jpg"
 fund_heading: Fund Facts
-fund_size: 4.3 million
+fund_size: 4.25 million
 investment_size: 150,000 - 250,000
 stage: Pre-seed
 sectors: Sector agnostic
