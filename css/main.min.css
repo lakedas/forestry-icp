@@ -1094,9 +1094,10 @@ font-size: 17px;
 }
 .person {
     margin: 0 auto 50px;
-    float:left;
-    width:100%;
-    position:relative;
+    float: left;
+    width: 32%;
+    position: relative;
+    margin-right: 2%;
 }
 .person-img {
     float:left;
@@ -1105,11 +1106,14 @@ font-size: 17px;
 }
 .linked {
     position: absolute;
-    left: 0px;
-    bottom: 8px;
+    z-index: 9;
+    right: 0px;
+    bottom: -15px;
     font-size: 17px;
     color: white;
-    opacity: 0.8;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    opacity: 1;
     background: rgb(30, 199, 206);
     padding: 10px 15.57px;
 }
@@ -1119,24 +1123,29 @@ font-size: 17px;
 .person img {
     width:100%;
 }
+.person-img {
+    position:relative;
+    z-index:2;
+}
 .person-info {
+    margin-top: -8px;
     float: left;
-    width: 50%;
+    width: 100%;
     background: #f4f4f4;
-    padding: 20px 50px;
+    padding: 20px 25px;
 }
 .person-info h3 {
     font-weight: bold;
-    margin: 20px 0 15px;
+    margin: 17px 0 10px;
     font-size: 22px;
 	letter-spacing: 0;
 }
 .person-info h4 {
     color: #00c3cb;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Oswald", sans-serif;
     font-weight: 900;
     margin: 0 0 -5px;
-    font-size: 17px;
+    font-size: 13px;
     letter-spacing: 0.2px;
 }
 .person-content {
