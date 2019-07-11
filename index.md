@@ -23,6 +23,6 @@ investment_size: 150,000 - 250,000
 stage: Pre-seed
 sectors: Sector agnostic
 portfolio_subheading: We bring investment, experience, mentoring, and networking to
-  our portfolio companies.
+  our portfolio companies
 
 ---
