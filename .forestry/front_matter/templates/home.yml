@@ -65,11 +65,6 @@ fields:
   config:
     required: false
   label: Portfolio Heading
-- name: portfolio_subheading
-  type: text
-  config:
-    required: false
-  label: Portfolio Subheading
 - name: portfolio_call_to_action
   type: text
   config:
