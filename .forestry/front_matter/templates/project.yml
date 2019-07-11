@@ -13,8 +13,6 @@ fields:
   default: ''
 - name: website_url
   type: text
-  config:
-    required: false
   label: Website URL
   description: Link to company website
 - name: order
