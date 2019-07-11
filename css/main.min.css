@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Playfair+Display|Open+Sans:700,400);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Oswald|Open+Sans:700,400);
 
 /* Vendor styles */
 
@@ -674,7 +674,7 @@ h5,
 h6 {
     line-height: 1.4em;
     font-weight: 400;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Oswald', sans-serif;
 }
 
 
@@ -853,7 +853,7 @@ p {
 }
 
 .plain-header h2 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Oswald', serif;
     font-size: 58px;
     font-weight: 400;
     color: black;
@@ -912,23 +912,24 @@ a.hero-arrow {
 }
 
 .about h2 {
-    font-size:36px;
+    font-size:38px;
 }
 
 .about-description {
-	white-space:pre-wrap;
-	font-size: 16px;
-font-weight: 400;
-letter-spacing: 0;
-font-family: open sans;
-line-height: 1.7em;
+    white-space:pre-wrap;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    font-family: open sans;
+    line-height: 1.7em;
 }
 
 .about_box {
-    float:left;
-    width:50%;
-    padding: 50px 50px 50px 0px;
+    margin:0 auto;
+    width:65%;
+    padding: 50px 15px;
     position:relative;
+    text-align:center
 	
 }
 
