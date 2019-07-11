@@ -625,7 +625,7 @@ html,
 input,
 select,
 textarea {
-    font-family: Montserrat, sans-serif;
+    font-family: Open Sans, sans-serif;
     font-weight: 700;
     line-height: 1.6em;
     letter-spacing: 1px
@@ -640,7 +640,7 @@ html {
 
 body {
     background-repeat: repeat-x;
-    font-family: Montserrat, sans-serif;
+    font-family: Open Sans, sans-serif;
     font-size:17px;
     font-weight:400;
 }
@@ -867,7 +867,7 @@ p {
     margin: 1em 0 0;
     color: black;
 	letter-spacing: 0.2px;
-	font-family: Montserrat;
+	font-family: Open Sans;
 	
 }
 
@@ -1070,7 +1070,7 @@ font-family: open sans;
     text-align:center;
     display:block;
 	border-radius: 200px;
-	font-family: montserrat;
+	font-family: Open Sans;
 letter-spacing: 0.2px;
 text-transform: uppercase;
 font-weight: 700;
@@ -1259,7 +1259,7 @@ font-size: 17px;
     display:inline-block;
     width:100px;
     float:right;
-font-family: montserrat;
+font-family: open sans;
 letter-spacing: 0.2px;
 text-transform: uppercase;
 font-weight: 700;
