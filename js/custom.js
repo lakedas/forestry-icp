@@ -62,14 +62,18 @@ $(document).ready(function() {
 $(document).ready(function() {
 	$('.person-content').each(function() {
 		var content = $(this).html();
-		var c = content.substr(0, 165);
-		var h = content.substr(164, content.length - 165);
+		var c = content.substr(0, 175);
+		var h = content.substr(174, content.length - 175);
 		var html = c + '<span class="eli">... </span><span style="display:none" class="mc">' + h + '</span>';	
 		$(this).html(html);
 	});
-	$('.person').hover(function(){
-		$('.eli').fadeOut();
-		$('.mc').fadeIn();
+	$('.person').mouseOver(function(){
+		$(this).find('.eli').fadeOut();
+		$(this).find('.mc').fadeIn();
+	});
+	$('.person').mouseOut(function(){
+		$(this).find('.eli').fadeIn();
+		$(this).find('.mc').fadeOut();
 	});
 });
 
