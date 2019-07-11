@@ -2,7 +2,8 @@
 title: Home
 layout: home
 heading: Helping startups and entrepreneurs build great companies
-sub_heading: Early stage Venture Capital for Prince Edward Island Companies.
+sub_heading: An early stage Venture Capital Fund investing in high potential Prince
+  Edward Island companies
 show_staff: true
 about_heading: Island Capital Partners
 about_description: |-
