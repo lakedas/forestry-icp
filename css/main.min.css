@@ -1250,6 +1250,7 @@ font-size: 17px;
 	font-family: open sans;
 	margin-top: 20px;
 	    letter-spacing: 0;
+	border-radius: 2px;
 }
 .contact-form-btn {
     background:#1c1c1c;
