@@ -35,11 +35,6 @@ fields:
     schema:
       format: markdown
   label: About Description
-- name: about_image
-  type: file
-  config:
-    maxSize: 250
-  label: About Image
 - name: fund_heading
   type: text
   config:
@@ -70,6 +65,11 @@ fields:
   config:
     required: false
   label: Portfolio Heading
+- name: portfolio_subheading
+  type: text
+  config:
+    required: false
+  label: Portfolio Subheading
 - name: portfolio_call_to_action
   type: text
   config:
