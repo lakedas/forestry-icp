@@ -120,5 +120,5 @@ $(document).ready(function(){
   $('.contact').waypoint(function() {
 	$('.contact_wrap').addClass('fadeInDown');
   }, { offset: '75%' });
-
+ 
 });
