@@ -673,7 +673,8 @@ h4,
 h5,
 h6 {
     line-height: 1.4em;
-    font-weight: 400;
+    font-weight: 700;
+    text-transform:uppercase;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -917,7 +918,7 @@ a.hero-arrow {
 
 .about-description {
     white-space:pre-wrap;
-    font-size: 16px;
+    font-size: 24px;
     font-weight: 400;
     letter-spacing: 0;
     font-family: open sans;
@@ -926,7 +927,7 @@ a.hero-arrow {
 
 .about_box {
     margin:0 auto;
-    width:65%;
+    width:80%;
     padding: 50px 15px;
     position:relative;
     text-align:center
