@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Oswald|Open+Sans:600,500,400);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Oswald|Open+Sans:800,600,400);
 
 /* Vendor styles */
 
@@ -64,7 +64,7 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: 600
+    font-weight: 800
 }
 
 dfn {
