@@ -20,11 +20,6 @@ fields:
   label: Order
   description: The order they should show up on the site
   default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
 pages:
 - _portfolio/Bluefield Seeding Solutions.md
 - _portfolio/Stash.md
