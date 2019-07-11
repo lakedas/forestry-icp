@@ -1099,10 +1099,12 @@ font-size: 17px;
     position: relative;
     margin-right: 2%;
 }
+.person:nth-of-type(3) {
+    margin-right:0;	
+}
 .person-img {
     float:left;
-    width:50%;
-    margin-top:40px;
+    width:100%;
 }
 .linked {
     position: absolute;
