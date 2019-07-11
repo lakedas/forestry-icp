@@ -5,6 +5,7 @@
 <section id="portfolio" class="portfolio">
     <div class="container">
         <h2>{{ page.portfolio_heading }}</h2>
+        <h3>{{ page.portfolio.subheading }}</h3>
         {% assign sorted = (site.portfolio | sort: 'order') %}
         {% for item in sorted %}<div class="pure-u-1 pure-u-md-1-2 fade animated">
             <div class="portfolio-box">
