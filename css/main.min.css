@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Oswald|Open+Sans:700,400);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Oswald|Open+Sans:600,400);
 
 /* Vendor styles */
 
@@ -64,7 +64,7 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: 700
+    font-weight: 600
 }
 
 dfn {
@@ -209,7 +209,7 @@ textarea {
 }
 
 optgroup {
-    font-weight: 700
+    font-weight: 600
 }
 
 table {
@@ -617,7 +617,7 @@ html[xmlns] .flexslider .slides {
 }
 
 
-/* font weights 300 (light), 400 (normal), 500 (medium), 700 (bold)*/
+/* font weights 300 (light), 400 (normal), 500 (medium), 600 (bold)*/
 
 .pure-g [class*=pure-u],
 button,
@@ -626,7 +626,7 @@ input,
 select,
 textarea {
     font-family: Open Sans, sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 1.6em;
     letter-spacing: 1px
 }
@@ -673,7 +673,7 @@ h4,
 h5,
 h6 {
     line-height: 1.4em;
-    font-weight: 700;
+    font-weight: 600;
     text-transform:uppercase;
     font-family: 'Oswald', sans-serif;
 }
@@ -752,7 +752,7 @@ p {
 
 #banner .call-to-action h1 {
     font-size: 40px;
-    font-weight: 700;
+    font-weight: 600;
     color: #fff;
     line-height: 1.2em;
     margin-bottom: .5em;
@@ -760,7 +760,7 @@ p {
 }
 
 #banner .call-to-action h2 {
-    font-weight: 700;
+    font-weight: 600;
     font-size: 20px;
     color: #fff;
     font-weight: 400;
@@ -863,7 +863,7 @@ p {
 
 .plain-header h3 {
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 600;
     margin: 1em 0 0;
     color: black;
 	letter-spacing: 0.2px;
@@ -1073,7 +1073,7 @@ font-family: open sans;
 	font-family: Open Sans;
 letter-spacing: 0.2px;
 text-transform: uppercase;
-font-weight: 700;
+font-weight: 600;
 font-size: 17px;
 }
 
@@ -1262,7 +1262,7 @@ font-size: 17px;
 font-family: open sans;
 letter-spacing: 0.2px;
 text-transform: uppercase;
-font-weight: 700;
+font-weight: 600;
 font-size: 17px;
 	border-radius: 200px; 
 }
@@ -1531,7 +1531,7 @@ font-size: 17px;
 .section-heading {
     border-bottom: 1px solid #eee;
     padding: 5px;
-    font-weight: 700;
+    font-weight: 600;
     color: #8b2004;
     margin-bottom: 2em
 }
@@ -1645,7 +1645,7 @@ nav ul a {
 
 .navigation li a {
     color: black;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 13px;
     text-transform: uppercase;
     border-radius: 0;
@@ -1740,7 +1740,7 @@ nav ul a {
 }
 
 .navigation li.current>a {
-    font-weight: 700
+    font-weight: 600
 }
 
 .navigation li.current a:after {
