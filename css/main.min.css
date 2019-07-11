@@ -1108,6 +1108,15 @@ font-size: 17px;
 }
 .person:hover .person-info {
     margin-top:-150px;	
+    color: white;
+    background: #01c3cb;
+}
+.person:hover .person-info .linked {
+    background:white;
+    color:#01c3cb !important;
+}
+.person:hover .person-info h4 {
+   color:white;
 }
 .person-img {
     float:left;
