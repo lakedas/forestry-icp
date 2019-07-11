@@ -67,11 +67,11 @@ $(document).ready(function() {
 		var html = c + '<span class="eli">... </span><span style="display:none" class="mc">' + h + '</span>';	
 		$(this).html(html);
 	});
-	$('.person').mouseOver(function(){
+	$('.person').mouseover(function(){
 		$(this).find('.eli').fadeOut();
 		$(this).find('.mc').fadeIn();
 	});
-	$('.person').mouseOut(function(){
+	$('.person').mouseout(function(){
 		$(this).find('.eli').fadeIn();
 		$(this).find('.mc').fadeOut();
 	});
