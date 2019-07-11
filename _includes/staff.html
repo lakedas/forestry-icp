@@ -24,7 +24,7 @@
                     {% endif %}
                     <h3>{{ person.title }}</h3>
                     <div class="person-content">
-                        {{ person.content }}
+                        {{ person.content | truncatewords: 150 }}
                     </div>
                 </div>
             </div>
