@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Oswald|Open+Sans:800,600,400);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700,400,300|Oswald|Open+Sans:700,600,400);
 
 /* Vendor styles */
  
@@ -64,7 +64,7 @@ abbr[title] {
 
 b,
 strong {
-    font-weight: 800
+    font-weight: 700
 }
 
 dfn {
@@ -1208,7 +1208,7 @@ font-size: 17px;
     margin-top: 5px;
     line-height: 1.5em;
     letter-spacing: 0;
-   font-size: 24px;
+   font-size: 20px;
    font-weight: 400;
    letter-spacing: 0;
    font-family: open sans;
@@ -1231,7 +1231,7 @@ font-size: 17px;
     border-bottom:1px solid #e3e3e3;
     padding:7px;
     margin-bottom:20px;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 400;
     font-family: open sans;
 	    letter-spacing: 0;
@@ -1244,7 +1244,7 @@ font-size: 17px;
     margin-bottom:20px;
     background:#f7f7f7;
     height:100px;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 400;
     box-sizing:border-box;
 	font-family: open sans;
@@ -1264,11 +1264,15 @@ font-family: open sans;
 letter-spacing: 0.2px;
 text-transform: uppercase;
 font-weight: 600;
-font-size: 17px;
+font-size: 18px;
 	border-radius: 200px; 
 }
 .contact-form-btn:hover {
     opacity:0.7;
+}
+
+.contact-form {
+	margin-top: 75px;
 }
 
 .news-post h3 a {
