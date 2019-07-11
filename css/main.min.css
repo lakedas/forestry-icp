@@ -1436,11 +1436,6 @@ font-size: 18px;
 	transform: rotate(-45deg);
 }
 
-.mobile-menu-show {
-	width:100% !important;
-	margin-left:0 !important;
-}
-
 .site-footer {
     font-size: 13px;
     text-align: center;
@@ -1993,6 +1988,10 @@ nav ul a {
 	    height:58px;
 	}
 	.mobile-menu-trigger {display:block;}   
+	.mobile-menu-show {
+		width:100% !important;
+		margin-left:0 !important;
+	}
 	.main-nav ul {
 	    margin-left:-100%;
 	    width: 0;
