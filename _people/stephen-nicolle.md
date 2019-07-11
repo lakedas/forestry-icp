@@ -1,7 +1,7 @@
 ---
 title: Stephen Nicolle
 date: '2017-11-14T11:08:34.000+00:00'
-sub_heading: General Partner
+sub_heading: Partner
 thumbnail: "/uploads/2019/07/11/steve.jpg"
 linkedin: http://ca.linkedin.com/in/snicolle
 layout: person

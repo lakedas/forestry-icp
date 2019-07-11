@@ -1,7 +1,7 @@
 ---
 layout: person
 title: Alex MacBeath
-sub_heading: General Partner
+sub_heading: Partner
 thumbnail: "/uploads/2019/07/11/Alex.jpg"
 linkedin: https://www.linkedin.com/in/alex-macbeath-829a2315/
 order: 1
