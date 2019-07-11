@@ -1096,9 +1096,17 @@ font-size: 17px;
 }
 .staff h2 {
     letter-spacing: normal;
-    margin: 0 0 50px;
+    margin: 0 0 20px;
     font-size: 38px;	
 }
+
+.staff h3 {
+	font-family: open sans; 
+	font-size: 18px; 
+	line-height: 1.5em; 
+	letter-spacing: 0;
+}
+
 .person {
     margin: 0 auto 50px;
     float: left;
@@ -1971,6 +1979,7 @@ nav ul a {
 /* MOBILE */
 
 @media (max-width:768px) {
+	.person {width: 100%; margin-right: auto;}
 	.site-header {position:fixed;background:white;}
 	.logo a {
     	    margin: 0 0 0 25px;	
