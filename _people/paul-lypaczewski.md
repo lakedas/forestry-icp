@@ -1,7 +1,7 @@
 ---
 layout: person
 title: Paul Lypaczewski
-sub_heading: General Partner
+sub_heading: Partner
 thumbnail: "/uploads/2019/07/11/paul.jpg"
 linkedin: https://www.linkedin.com/in/paul-lypaczewski-6840a01/
 order: 5
