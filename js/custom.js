@@ -58,6 +58,19 @@ $(document).ready(function() {
 	*/
 });
 
+// Staff Read More
+$(document).ready(function() {
+	$('.person-content').each(function() {
+		var c = content.substr(0, 165);
+		var h = content.substr(164, content.length - 165);
+		var html = c + '<span class="eli">... </span><span style="display:none" class="mc">' + h + '</span>';	
+	});
+	$('.person').hover(function(){
+		$('.eli').fadeOut();
+		$('.mc').fadeIn();
+	});
+});
+
 // Animations
 $(document).ready(function(){
  
