@@ -2,10 +2,9 @@
 layout: person
 title: Paul Lypaczewski
 sub_heading: General Partner
-thumbnail: "/uploads/2019/05/28/img-placeholder.png"
+thumbnail: "/uploads/2019/07/11/paul.jpg"
 linkedin: https://www.linkedin.com/in/paul-lypaczewski-6840a01/
 order: 5
-published: false
 
 ---
 Over the last 30 years, Paul has held a number of executive management positions in the computer graphics and software industries, in a senior leadership role at major NASDAQ and NYSE firms such as Autodesk, AMD and Avid. As VP of Product Development at Alias, he was an integral part of the executive team that took the company over a three-year period from the brink of bankruptcy back to being the preeminent provider of 3D animation and industrial design software, resulting in a $450M acquisition by Silicon Graphics.
