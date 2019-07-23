@@ -2,8 +2,8 @@
 title: Home
 layout: home
 heading: Helping startups and entrepreneurs build great companies
-sub_heading: An early stage Venture Capital Fund investing in high potential Prince
-  Edward Island companies
+sub_heading: An early stage Venture Capital Fund investing in high growth potential
+  Prince Edward Island companies
 show_staff: true
 about_heading: Island Capital Partners
 about_description: |-
@@ -21,7 +21,7 @@ fund_heading: Fund Facts
 fund_size: 4.25 million
 investment_size: 150,000 - 250,000
 stage: Pre-seed
-sectors: Sector agnostic
+sectors: Broad
 portfolio_subheading: We bring investment, experience, mentoring, and networking to
   our portfolio companies
 
