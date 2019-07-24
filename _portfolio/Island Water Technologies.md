@@ -1,7 +1,7 @@
 ---
 company: Island Water Technologies
 company_logo: "/uploads/2019/05/20/water.png"
-order: 4
+order: 7
 website_url: https://www.islandwatertech.com/
 
 ---

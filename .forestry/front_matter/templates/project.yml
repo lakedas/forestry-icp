@@ -21,9 +21,9 @@ fields:
   description: The order they should show up on the site
   default: 0
 pages:
+- _portfolio/Island Water Technologies.md
 - _portfolio/Coloursmith Labs.md
 - _portfolio/Bluefield Seeding Solutions.md
 - _portfolio/Stash.md
-- _portfolio/Island Water Technologies.md
 - _portfolio/Garago.md
 - _portfolio/Forestry.md
