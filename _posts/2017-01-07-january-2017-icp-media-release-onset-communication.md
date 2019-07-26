@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Island Capital Partners Invests $230,000 into Prince Edward Island Tech  '
-date: 2018-01-31 01:00:00 -0400
+date: 2018-01-31T05:00:00.000+00:00
 press_release_url: "/uploads/2019/05/30/January2017ICPMediaRelease.pdf"
 location: Charlottetown
 excerpt: Island Capital Partners, a Venture Capital group based in Charlottetown has
@@ -21,7 +21,7 @@ Onset has also established a distribution agreement with William F White Interna
 
 Paul Lypaczewski, Investment Director with Island Capital Partners has worked with the Onset team for the past two years and says, “Over my years spent delivering production solutions to the media creation industries, it’s been clear that the primary focus must be on the user experience, using technology as a core underpinning. What we saw in Onset Communication was a unique combination of technological expertise coupled with a deep understanding of the film and video production process, all led by an experienced Management Team. We are excited for the potential for The Video Assistant to become an essential part of any production set as it streamlines the communication process and unleashes the customer’s creative vision”.
 
-Onset co-founder and CEO, Brian Sharp is excited about the ICP investment: "It's been a three-year journey to turn my vision and passion into a funded business. We could not have arrived at this starting line without the support of our investors at Island Capital Partners, the mentoring and guidance provided by Startup Zone; and the constant engagement and support of our distribution partner, William F White. It is so exciting to finally be in the race to build a really cool and really successful international business!"
+Onset co-founder and CEO, Brian Sharp is excited about the ICP investment: "It's been a three-year journey to turn my vision and passion into a funded business. We could not have arrived at this starting line without the support of our investors at Island Capital Partners, the mentoring and guidance provided by Startup Zone; and the constant engagement and support of our distribution partner, William F White. It is so exciting to finally be in the race to build a really cool and really successful international business!" 
 
 **Media Contact**
 
