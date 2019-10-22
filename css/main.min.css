@@ -1981,7 +1981,8 @@ nav ul a {
 @media (max-width:1180px) {
 	.site-header .container {
 	    margin: 0 2em;
-	    width:100%;
+	    width:90%;
+	    max-width:90%
 	}
 	.container {width:90%;}
 }
