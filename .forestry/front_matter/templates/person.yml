@@ -30,7 +30,7 @@ fields:
   default: 0
   description: The order they should show up on the site
 pages:
-- _people/stephanie-corbett.md
-- _people/paul-lypaczewski.md
 - _people/alex-macbeath.md
 - _people/ron-keefe.md
+- _people/paul-lypaczewski.md
+- _people/stephanie-corbett.md
