@@ -610,13 +610,6 @@ html[xmlns] .flexslider .slides {
     }
 }
 
-@media (max-width:980px) {
-     .site-header .container {
-        margin: 0 2em;
-	width:100%;
-    }
-}
-
 @media (max-width:768px) {
     .container {
         margin: 0 2em
@@ -1987,10 +1980,13 @@ nav ul a {
 /* MOBILE */
 
 @media (max-width:980px) {
-	.person {width: 100%; margin-right:auto; margin-left:auto !important}
+	.site-header .container {
+	    margin: 0 2em;
+	    width:100%;
+	}
 	.site-header {position:fixed;background:white;}
 	.logo a {
-    	    margin: 0 0 0 25px;	
+	    margin: 0 0 0 25px;	
 	    width:175px;
 	    height:58px;
 	}
@@ -2036,6 +2032,10 @@ nav ul a {
 	    padding:13px 5px 11px 5px;
 	    margin-top: 0;
 	}
+}
+
+@media (max-width:768px) {
+	.person {width: 100%; margin-right:auto; margin-left:auto !important}
 	.news-container {margin-top:-200px;}
 	.plain-header {padding:60px 0 40px;min-height:560px;}
 	.plain-header h2 { font-size:38px;}
