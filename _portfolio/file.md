@@ -1,6 +1,6 @@
 ---
 company: Photodynamic
-company_logo: "/uploads/2020/03/24/imageedit_10_9957143761.png"
+company_logo: "/uploads/2020/03/24/imageedit_3_9870198001.png"
 order: 7
 website_url: https://www.photo-dynamic.com/
 title: ''
