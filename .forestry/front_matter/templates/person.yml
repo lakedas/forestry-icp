@@ -31,6 +31,6 @@ fields:
   description: The order they should show up on the site
 pages:
 - _people/alex-macbeath.md
-- _people/ron-keefe.md
 - _people/paul-lypaczewski.md
+- _people/ron-keefe.md
 - _people/stephanie-corbett.md
