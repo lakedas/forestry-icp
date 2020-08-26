@@ -19,8 +19,8 @@ hero_arrow: true
 about_image: "/uploads/2019/06/11/placeholder.jpg"
 fund_heading: Fund Facts
 fund_size: 4.25 million
-investment_size: 150,000 - 250,000
-stage: Pre-seed
+investment_size: 100,000 - 500,000
+stage: Early-stage
 sectors: Broad
 portfolio_subheading: We bring investment, experience, mentoring, and networking to
   our portfolio companies
