@@ -1,16 +1,16 @@
 ---
 navigation:
-- url: "#fund"
-  weight: 1
-  title: About
-- url: "#contact"
-  weight: 5
-  title: Contact Us
+- identifier: _posts
+  weight: 3
+  url: "#team"
+  title: Team
 - identifier: _about
   weight: 2
   url: "#portfolio"
   title: Portfolio
-- identifier: _posts
-  weight: 3
-  url: "#team"
-  title: Management Team
+- url: "#contact"
+  weight: 5
+  title: Contact Us
+- url: "#fund"
+  weight: 1
+  title: About
