@@ -39,6 +39,3 @@ fields:
   type: text
   hidden: true
   default: post
-pages:
-- _posts/photodynamic-secures-investment-from-the-american-association-of-orthodontists-aao.md
-- _posts/salesright-closes-925-000-pre-seed-round-co-led-by-concrete-ventures-and-island-capital-partners.md
