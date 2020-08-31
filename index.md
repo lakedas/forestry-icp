@@ -24,6 +24,5 @@ stage: Early-stage
 sectors: Broad
 portfolio_subheading: We bring investment, experience, mentoring, and networking to
   our portfolio companies
-published: false
 
 ---
