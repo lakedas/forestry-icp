@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-heading: Helping startups and entrepreneurs build great companies
+heading: Helping startups and entrepreneurs build great companie
 sub_heading: An early stage Venture Capital Fund investing in high growth potential
   Prince Edward Island companies
 show_staff: true
