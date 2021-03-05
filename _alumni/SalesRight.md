@@ -1,7 +1,7 @@
 ---
 company: SalesRight
 company_logo: "/uploads/2020/03/24/SalesRight-Logo@1x.svg"
-order: 10
+order: 1
 website_url: https://salesright.co/
 title: ''
 
