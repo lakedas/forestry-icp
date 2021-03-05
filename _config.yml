@@ -22,6 +22,9 @@ collections:
   portfolio:
     output: false
     relative_directory: "_portfolio"
+  alumni:
+    output: false
+    relative_directory: "_alumni"
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
