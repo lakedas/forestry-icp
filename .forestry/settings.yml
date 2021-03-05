@@ -32,6 +32,13 @@ sections:
   match: "*"
   templates:
   - project
+- type: directory
+  path: _alumni
+  label: Alumni
+  create: all
+  match: "*"
+  templates:
+  - project
 - type: document
   path: _data/information.yml
   label: Contact Information
