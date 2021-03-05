@@ -65,6 +65,11 @@ fields:
   config:
     required: false
   label: Portfolio Heading
+- name: alumni_heading
+  type: text
+  config:
+    required: false
+  label: Alumni Heading
 - name: portfolio_call_to_action
   type: text
   config:
