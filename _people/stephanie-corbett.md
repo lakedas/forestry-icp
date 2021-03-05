@@ -1,7 +1,7 @@
 ---
 layout: person
 title: Stefanie Corbett
-sub_heading: Associate & Director of Operations
+sub_heading: Partner
 thumbnail: "/uploads/2019/07/11/Stef.jpg"
 linkedin: https://www.linkedin.com/in/stefanie-corbett-b22776120/
 order: 3
